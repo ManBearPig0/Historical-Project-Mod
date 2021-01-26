@@ -1,5 +1,4 @@
 # Audax Validator "!" Ignore_1006
-#general promote mtth, same for all pops
 promotion_chance =
 {
     factor = 0.25
@@ -297,7 +296,6 @@ demotion_chance =
     }
 }
 
-#general migration chance mtth, same for all pops
 migration_chance =
 {
     factor = 1
@@ -395,7 +393,6 @@ migration_chance =
     }
 }
 
-#general colonial migration mtth, same for all pops
 colonialmigration_chance =
 {
     factor = 0.25
@@ -461,11 +458,6 @@ colonialmigration_chance =
         }
     }
 
-    #modifier = {
-    #    factor = -0.3
-    #    state_scope = { has_factories = yes }
-    #}
-
     modifier = {
         factor = 0.2
         country = { penal_system = colonial_transportation }
@@ -503,7 +495,6 @@ colonialmigration_chance =
     }
 }
 
-#general emigration chance
 emigration_chance =
 {
     factor = 0.5
@@ -731,7 +722,6 @@ emigration_chance =
     }
 }
 
-#general assimilation mtth, same for all pops
 assimilation_chance =
 {
     factor = 1
@@ -902,7 +892,6 @@ assimilation_chance =
     }
 }
 
-#general conversion mtth, same for all pops
 conversion_chance =
 {
     factor = 1

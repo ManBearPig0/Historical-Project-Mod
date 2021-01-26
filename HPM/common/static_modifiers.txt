@@ -1,16 +1,6 @@
-# All global modifiers are here.  They are applied from certain game-features.
-#
-# Effects are fully scriptable here.
+# The static modifiers cannot be removed or renamed, as the code relies on them.
 
-
-#these names can NOT be removed or changes, as the code uses them....
-
-##########################################################################
 # Difficulty Modifiers
-##########################################################################
-
-
-
 very_easy_player = {
     supply_consumption = -0.5
     research_points_modifier = 0.5
@@ -39,9 +29,6 @@ very_hard_player = {
     tax_efficiency = -0.05
     education_efficiency_modifier = -0.05
 }
-
-
-
 
 very_easy_ai = {
     land_organisation = -0.25
@@ -74,11 +61,7 @@ very_hard_ai = {
     war_exhaustion = -0.5
 }
 
-
-##########################################################################
-# Provincial Static Modifiers
-##########################################################################
-
+# Provincial Modifiers
 overseas = {
     assimilation_rate = -0.3
     pop_militancy_modifier = -0.01
@@ -96,16 +79,14 @@ coastal_sea = {
 }
 
 sea_zone = {
-    max_attrition = 5        #Maximum Attrition is 5
+    max_attrition = 5
     supply_limit = 10
 }
 
 land_province = {
-    max_attrition = 5            #Maximum Attrition is 5
+    max_attrition = 5
     supply_limit = 5
 }
-
-
 
 blockaded = {
     war_exhaustion = 0.05
@@ -117,12 +98,9 @@ no_adjacent_controlled = {
     supply_limit = -3
 }
 
-
 core = {
 	supply_limit = 1
 }
-
-
 
 has_siege = {
     population_growth = -0.0001
@@ -141,32 +119,27 @@ nationalism = {
 }
 
 infrastructure = {
-    local_factory_throughput = 1        #each % of infra boost throughput 1%
-    local_rgo_output = 1            #each % of infra boost throughput 1%
+    # Each level gives a 1% boost.
+    local_factory_throughput = 1 
+    local_rgo_output = 1
     immigrant_attract = 0.05
     supply_limit = 4
 }
 
-
-
-##########################################################################
-# Global Static Modifiers
-##########################################################################
-
+# Country Modifiers
 base_values = {
     supply_limit = 5
 }
 
 war = {
-    max_war_exhaustion = 100            #base max at war.
+    max_war_exhaustion = 100
     supply_consumption = -0.5
-    #war_exhaustion = 0.1
     badboy = -0.033
     import_cost = 0.01
 }
 
 peace = {
-    max_war_exhaustion = 50            #base max at peace.
+    max_war_exhaustion = 50
     supply_consumption = -0.5
     war_exhaustion = -1
     badboy = -0.1
@@ -249,14 +222,14 @@ generalised_debt_default = {
 }
 
 total_occupation = {
-    war_exhaustion = 0.5                #increased by war exhaustion.
+    war_exhaustion = 0.5
     global_population_growth = -0.0001
     import_cost = 0.5
     prestige = -0.1
 }
 
 total_blockaded = {
-    war_exhaustion = 0.4    #increased by war exhaustion.
+    war_exhaustion = 0.4
     global_population_growth = -0.0001
     import_cost = 1
     prestige = -0.1
@@ -267,6 +240,5 @@ in_bankrupcy = {
     min_tariff = 0.75
     min_tax = 0.45
     max_military_spending = -0.2
-    #max_social_spending = 0.5
     ruling_party_support = -0.75
 }

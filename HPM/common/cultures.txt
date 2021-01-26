@@ -1,6 +1,3 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
-
 germanic = {
     leader = european
     unit = EuropeanGC
@@ -21,7 +18,7 @@ germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
     south_german = {
-        color = { 140 110 110 } #{ 110 80 80 }
+        color = { 140 110 110 }
         first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
         Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
         Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -2370,7 +2367,7 @@ central_african = {
         last_names = { al-Kanemi Sayfawa Dalatumi Lefiami Kingibe Imam Gana
         }
     }
-    kuba = { #aka Bashong
+    kuba = {
         color = {166 72 57}
         first_names = { Kasongo Umpafu Ilunga Kisula Nday Kitamba Maloba Ndaye Kumwimba Maniema
         }

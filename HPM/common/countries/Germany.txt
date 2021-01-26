@@ -1,6 +1,5 @@
 color = { 147 130 110 }
 fascist_dictatorship = { 40 40 40 }
-#proletarian_dictatorship = { 200 10 10 }
 graphical_culture = PrussianGC
 
 

@@ -1,5 +1,5 @@
-color = { 181  72  106 } #randomise
-graphical_culture = EuropeanGC # inherit
+color = { 181  72  106 }
+graphical_culture = EuropeanGC
 
 party = {
     name = "dominion_conservative"
@@ -107,5 +107,5 @@ party = {
 }
 
 unit_names = {
-    #inherit
+
 }

@@ -1,5 +1,5 @@
 color = { 112 150 105  }
-graphical_culture = EuropeanGC # inherit
+graphical_culture = EuropeanGC
 
 party = {
     name = "dominion_conservative"
@@ -107,5 +107,5 @@ party = {
 }
 
 unit_names = {
-    #inherit
+
 }

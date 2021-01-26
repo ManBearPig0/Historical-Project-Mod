@@ -1,18 +1,9 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new buildings, make sure they are uniquely named.
-#
-# Order in here matters for selection priority if icons are overlapping,
-# so leave bases on top
+# Order in here matters for selection priority,
+# if icons are overlapping leave bases on top.
 
-#
-# cost = x #==> extra construction cost (added to goods cost estimations)
-# time = x #==> number of days to build.
-#
 # Audax Validator EnableCommentMetadata
 
-
-############# LATE GAME FACTORIES
-
+# Late Game Factories
 aeroplane_factory = {
     type = factory
     on_completion = factory
@@ -74,7 +65,6 @@ automobile_factory = {
 
     production_type = automobile_factory
     pop_build_factory = yes
-    #advanced_factory = yes
 }
 
 radio_factory = {
@@ -118,11 +108,9 @@ telephone_factory = {
 
     production_type = telephone_factory
     pop_build_factory = yes
-    #advanced_factory = yes
 }
 
-############# STRATEGIC FACTORIES
-
+# Strategic Factories
 electric_gear_factory = {
     type = factory
 
@@ -183,7 +171,6 @@ synthetic_oil_factory = {
 
     production_type = synthetic_oil_factory
     pop_build_factory = yes
-    #strategic_factory = yes
 }
 
 fuel_refinery = {
@@ -204,11 +191,9 @@ fuel_refinery = {
 
     production_type = fuel_refinery
     pop_build_factory = yes
-    #strategic_factory = yes
 }
 
-############# NAVAL FACTORIES
-
+# Naval Factories
 steamer_shipyard = {
     type = factory
 
@@ -253,8 +238,7 @@ clipper_shipyard = {
     pop_build_factory = yes
 }
 
-############# LUXURY GOODS FACTORIES
-
+# Luxury Goods Factories
 luxury_clothes_factory = {
     type = factory
 
@@ -295,8 +279,7 @@ luxury_furniture_factory = {
     pop_build_factory = yes
 }
 
-############# MEDIUM FACTORIES
-
+# Medium Factories
 steel_factory = {
     type = factory
 
@@ -356,8 +339,7 @@ small_arms_factory = {
     pop_build_factory = yes
 }
 
-############# COMMON FACTORIES
-
+# Common Factories
 furniture_factory = {
     type = factory
     on_completion = factory
@@ -434,8 +416,7 @@ explosives_factory = {
     pop_build_factory = yes
 }
 
-############# CHEAP FACTORIES
-
+# Cheap Factories
 ammunition_factory = {
     type = factory
 
@@ -485,7 +466,7 @@ dye_factory = {
     goods_cost =
     {
         machine_parts = 80
-        steel = 200 #was iron
+        steel = 200
         cement = 200
     }
     time = 244
@@ -494,7 +475,7 @@ dye_factory = {
 
     production_type = dye_factory
     pop_build_factory = yes
-    strategic_factory = yes #Wasn't strategic
+    strategic_factory = yes
 }
 
 liquor_distillery = {
@@ -537,8 +518,7 @@ winery = {
     pop_build_factory = yes
 }
 
-############# BASIC FACTORIES
-
+# Basic Factories
 lumber_mill = {
     type = factory
     on_completion = factory
@@ -635,8 +615,7 @@ fertilizer_factory = {
     pop_build_factory = yes
 }
 
-############# Military Buildings and Infrastructure
-
+# Military Structures and Infrastructure
 fort = {
     type = fort
     goods_cost =
@@ -659,7 +638,7 @@ fort = {
 
 naval_base = {
     type = naval_base
-    cost = 15000
+    cost = 15000 # Investment needed for the building.
     goods_cost =
     {
         lumber = 100
@@ -675,7 +654,7 @@ naval_base = {
     visibility = yes
     max_level = 6
     # Audax Validator "." Ignore_NEXT
-    colonial_points = { 30 60 90 140 150 160 } #points at levels 1-6 - previous 30 50 70 90 110 130
+    colonial_points = { 30 60 90 140 150 160 }
     province = yes
     one_per_state = yes
     colonial_range = 25
@@ -690,7 +669,7 @@ railroad = {
         cement = 100
         steel = 100
     }
-    time = 365 #Original
+    time = 365
     visibility = yes
     onmap = yes
     max_level = 6

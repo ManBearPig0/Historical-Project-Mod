@@ -361,16 +361,6 @@ tool_arrow =
 tool_borders =
 {
     icon = GFX_bp_tool_border_option_icon
-    #option =
-    #{
-    #    name = BP_TOOL_BORDER_1
-    #    type = bb_0
-    #}
-    #option =
-    #{
-    #    name = BP_TOOL_BORDER_2
-    #    type = bb_1
-    #}
     option =
     {
         name = BPM_TOOL_BORDER_1

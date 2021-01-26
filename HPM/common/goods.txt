@@ -217,7 +217,7 @@ consumer_goods = {
         color = { 123 0 54 }
     }
     liquor = {
-        cost = 4.4 #Vanilla is 6.4
+        cost = 4.4
         color = { 76 5 0 }
     }
     regular_clothes = {

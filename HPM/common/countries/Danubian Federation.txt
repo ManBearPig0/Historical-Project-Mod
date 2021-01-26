@@ -226,7 +226,7 @@ party = {
     war_policy = jingoism
 }
 
-#Same as for Austria
+
 unit_names = {
     dreadnought = {
         "Kaiser Max" "Don Juan D'Austria" "Austria" "Hungary" "Budapest" "Wien" "Praha"

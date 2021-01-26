@@ -2,8 +2,8 @@ color = { 0  101  189 }
 graphical_culture = EuropeanGC
 
 party = {
-    name = "FRO_liberal" # Sjálvstýrisflokkurin
-    start_date = 1830.1.1 # Actually founded in 1909
+    name = "FRO_liberal"
+    start_date = 1830.1.1
     end_date = 2000.1.1
 
     ideology = liberal
@@ -17,8 +17,8 @@ party = {
 }
 
 party = {
-    name = "FRO_conservative" # Sambandsflokkurin
-    start_date = 1830.1.1 # Actually founded in 1906
+    name = "FRO_conservative"
+    start_date = 1830.1.1
     end_date = 2000.1.1
 
     ideology = conservative
@@ -32,8 +32,8 @@ party = {
 }
 
 party = {
-    name = "FRO_reactionary" # Hin Føroyski Flokkurin
-    start_date = 1830.1.1 # Anachronistic
+    name = "FRO_reactionary"
+    start_date = 1830.1.1
     end_date = 2000.1.1
 
     ideology = conservative
@@ -47,8 +47,8 @@ party = {
 }
 
 party = {
-    name = "FRO_socialist" # Javnaðarflokkurin
-    start_date = 1848.1.1 # Actually founded in 1925
+    name = "FRO_socialist"
+    start_date = 1848.1.1
     end_date = 2000.1.1
 
     ideology = socialist
@@ -64,8 +64,8 @@ party = {
 
 
 party = {
-    name = "FRO_anarcho_liberal" # Vinnuflokkurin
-    start_date = 1840.1.1 # Actually founded in 1935
+    name = "FRO_anarcho_liberal"
+    start_date = 1840.1.1
     end_date = 2000.1.1
 
     ideology = anarcho_liberal
@@ -79,8 +79,8 @@ party = {
 }
 
 party = {
-    name = "FRO_communist" # Kommunistiski Flokkur Føroya
-    start_date = 1848.1.1 # Anachronistic
+    name = "FRO_communist"
+    start_date = 1848.1.1
     end_date = 2000.1.1
 
     ideology = communist
@@ -94,8 +94,8 @@ party = {
 }
 
 party = {
-    name = "FRO_fascist" # Loysingarflokkurin
-    start_date = 1900.1.1 # Actually founded in 1932
+    name = "FRO_fascist"
+    start_date = 1900.1.1
     end_date = 2000.1.1
 
     ideology = fascist

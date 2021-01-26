@@ -1,4 +1,3 @@
-#color = { 194  53  60 }
 color = { 232  26  63 }
 absolute_monarchy = { 194  123  47 }
 prussian_constitutionalism = { 232  26  63 }

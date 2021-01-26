@@ -1,10 +1,5 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new forms of governemnts, make sure they are uniquely named.
-
-
-
 proletarian_dictatorship = {
-    #which ideology of parties.
+    # Which political parties are permitted:
     communist = yes
 
     election = no
@@ -13,7 +8,6 @@ proletarian_dictatorship = {
 }
 
 presidential_dictatorship = {
-    #which ideology of parties.
     reactionary = yes
 
     election = no
@@ -22,7 +16,6 @@ presidential_dictatorship = {
 }
 
 bourgeois_dictatorship = {
-    #which ideology of parties.
     anarcho_liberal = yes
 
     election = no
@@ -31,7 +24,6 @@ bourgeois_dictatorship = {
 }
 
 fascist_dictatorship = {
-    #which ideology of parties.
     fascist = yes
 
     election = no
@@ -96,7 +88,6 @@ democracy = {
 }
 
 theocracy = {
-    #which ideology of parties.
     reactionary = yes
     conservative = yes
 
