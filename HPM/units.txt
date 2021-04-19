@@ -1,0 +1,601 @@
+artillery = {
+    icon = 3
+
+    type = land
+    sprite = Artillery
+    active = no
+    unit_type = support
+    floating_flag = no
+
+    #Core Abilities
+    priority = 20
+    max_strength = 3
+    default_organisation = 30
+    maximum_speed = 4.00
+    weighted_value = 5.0
+
+
+    #Building Costs
+    build_time = 120
+    build_cost = {
+        artillery = 10
+        canned_food = 10
+        liquor = 10
+    }
+
+    supply_consumption = 1.0
+    supply_cost = {
+        artillery = 0.1 #0.008
+        canned_food = 0.06 #0.004
+    }
+
+
+    #Land Abilties
+    reconnaissance = 0
+    attack = 1.5
+    defence = 3
+    discipline = 1.0
+    support = 2
+    maneuver = 1
+
+}
+battleship = {
+    icon = 21
+    naval_icon = 10
+
+    type = naval
+    sprite = Battleship
+    unit_type = big_ship
+    capital = yes
+    active = no
+    move_sound = steam_move
+    select_sound = steam_selected
+    floating_flag = yes
+    can_build_overseas = no
+    colonial_points = 25
+
+    #Core Abilities
+    priority = 40
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 26
+    weighted_value = 50.0
+
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        steamer_convoy = 120     # 7800 | was 80 - 5200
+        artillery = 90             # 5400 | was 20 - 1200
+        canned_food = 40         # 640  | was 10 - 160
+        telephones = 20            # 320  | was 0
+        regular_clothes = 40     # 232  | was 15 - 87
+        fuel = 30                 # 750  | was coal 25 - 57.5
+    }
+    # Total: 15142 | was 6704.5
+    min_port_level = 4
+    limit_per_port = 1
+    supply_consumption_score = 50
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 1.4
+        artillery = 0.7
+        canned_food = 0.8
+        telephones = 0.01
+        fuel = 4
+        ammunition = 0.6
+        regular_clothes = 0.3
+        tobacco = 1.5
+    }
+
+    #Naval Abilities
+    hull = 60
+    gun_power = 40
+    fire_range = 0.75
+    evasion = 0
+}
+clipper_transport = {
+    icon = 6
+    naval_icon = 3
+
+    sail = yes
+
+    type = naval
+    sprite = Transportship
+    unit_type = transport
+    transport = yes
+    floating_flag = yes
+
+    #Core Abilities
+    priority = 5
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 6
+    weighted_value = 1.0
+    can_build_overseas = yes
+
+
+    #Building Costs
+    build_time = 90
+    build_cost = {
+        clipper_convoy = 5 #210 | was 4 - 168£
+        artillery = 2 #120
+        regular_clothes = 1 #5.8£
+        canned_food = 1 #16£
+    }
+    #Total: 351.8£
+    min_port_level = 1
+    limit_per_port = -1
+    supply_consumption_score = 1
+
+    supply_consumption = 1.0
+    supply_cost = {
+        clipper_convoy = 0.064
+        artillery = 0.01 #0.08
+    }
+
+    #Naval Abilities
+    hull = 1
+    gun_power = 1
+    fire_range = 0.2
+    evasion = 0
+}
+commerce_raider = {
+    icon = 8
+    naval_icon = 5
+
+    type = naval
+    sprite = Raider
+    active = no
+    unit_type = light_ship
+    move_sound = steam_move
+    select_sound = steam_selected
+    floating_flag = yes
+    colonial_points = 4
+
+    #Core Abilities
+    priority = 15
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 17
+    weighted_value = 5.0
+    can_build_overseas = yes
+
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        steamer_convoy = 35  #2275 | was 650
+        artillery = 25          #1500 | was 300
+        canned_food = 15      # 240 | was 32
+        regular_clothes = 15 # 72  | was 29
+    }
+    #Total: 4087 | was 1011
+    min_port_level = 1
+    limit_per_port = -1
+    supply_consumption_score = 3
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 0.2
+        artillery = 0.1
+        canned_food = 0.1
+        ammunition = 0.1
+        regular_clothes = 0.5
+        coal = 0.25
+    }
+
+    #Naval Abilities
+    hull = 6
+    gun_power = 4
+    fire_range = 0.6
+    evasion = 0.25
+    torpedo_attack = 0
+}
+cruiser = {
+    icon = 11
+    naval_icon = 8
+
+    type = naval
+    sprite = Cruiser
+    active = no
+    unit_type = light_ship
+    move_sound = steam_move
+    select_sound = steam_selected
+    can_build_overseas = no
+    colonial_points = 8
+
+    #Core Abilities
+    priority = 12
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 27
+    weighted_value = 8.0
+    floating_flag = yes
+
+
+    #Building Costs
+    build_time = 240
+    build_cost = {
+        steamer_convoy = 80     # 5200 | was 30 - 1950
+        artillery = 70            # 4200 | was 10 - 600
+        canned_food = 30         # 480  | was 12 - 192
+        regular_clothes = 30     # 174  | was 10 - 58
+        fuel = 20                # 500  |
+    }
+    #Total: 10554 | was 2800
+    min_port_level = 4
+    limit_per_port = -1
+    supply_consumption_score = 20
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 1
+        artillery = 0.5
+        canned_food = 0.6
+        fuel = 3
+        coal = 0.5
+        ammunition = 0.4
+        regular_clothes = 0.25
+        tobacco = 1.2
+    }
+
+    #Naval Abilities
+    hull = 50
+    gun_power = 30
+    fire_range = 0.65
+    evasion = 0.30
+    torpedo_attack = 2
+}
+dreadnought = {
+    icon = 12
+    naval_icon = 9
+
+    type = naval
+    sprite = Dreadnought
+    unit_type = big_ship
+    capital = yes
+    active = no
+    move_sound = steam_move
+    select_sound = steam_selected
+    floating_flag = yes
+    can_build_overseas = no
+    colonial_points = 30
+
+    #Core Abilities
+    priority = 60
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 31
+    weighted_value = 100.0
+
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        steamer_convoy = 130    # 8450 | was 125 - 8125
+        artillery = 100            # 6000 | was 30 - 1800
+        canned_food = 60        # 960  | was 20 - 320
+        telephones = 40            # 640  | was 20 - 320
+        regular_clothes = 60    # 348  | was 20 - 116
+        fuel = 60                # 1500 | was 40 - 1000
+    }
+    # 17898 | was 11681
+    min_port_level = 5
+    limit_per_port = 1
+    supply_consumption_score = 60
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 1.6
+        artillery = 0.8
+        canned_food = 1
+        telephones = 0.02
+        fuel = 5
+        ammunition = 0.8
+        regular_clothes = 0.5
+        tobacco = 2
+    }
+
+    #Naval Abilities
+    hull = 70
+    gun_power = 50
+    fire_range = 0.8
+    evasion = 0
+}
+frigate = {
+    icon = 5
+    naval_icon = 2
+
+    sail = yes
+
+    type = naval
+    sprite = Frigate
+    unit_type = light_ship
+    floating_flag = yes
+    colonial_points = 2
+
+    #Core Abilities
+    priority = 13
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 6
+    weighted_value = 2.0
+    can_build_overseas = yes
+
+    #Building Costs
+    build_time = 180
+    build_cost = {
+        clipper_convoy = 25 #1050 | was 10 - 420£
+        artillery = 10 #600 | was 5 - 300£
+        regular_clothes = 10 #58£
+        canned_food = 10 #160£
+    }
+    #Total: 1868£ | was 720£
+    min_port_level = 1
+    limit_per_port = -1
+    supply_consumption_score = 1
+
+    supply_consumption = 1.0
+    supply_cost = {
+        clipper_convoy = 0.16
+        artillery = 0.04 #0.08
+    }
+
+    #Naval Abilties
+    hull = 2
+    gun_power = 3
+    fire_range = 0.25
+    evasion = 0.1
+    torpedo_attack = 0
+}
+guard = {
+    icon = 18
+
+    type = land
+    sprite = Guard
+    active = no
+    unit_type = infantry
+    primary_culture = yes
+    floating_flag = no
+
+    #Core Abilities
+    priority = 18
+    max_strength = 3
+    default_organisation = 30
+    maximum_speed = 4.00
+    weighted_value = 9.0
+
+
+    #Building Costs
+    build_time = 90
+    build_cost = {
+        small_arms = 10
+        canned_food = 10
+        liquor = 10
+        luxury_clothes = 5
+    }
+
+    supply_consumption = 1.0
+    supply_cost = {
+        small_arms = 0.02 #0.015
+        canned_food = 0.07 # 0.08
+        ammunition = 0.1 #0
+    }
+
+
+    #Land Abilties
+    reconnaissance = 0
+    attack = 8
+    defence = 5
+    discipline = 1.0
+    support = 0.0
+    maneuver = 2
+}
+ironclad = {
+    icon = 9
+    naval_icon = 6
+
+    type = naval
+    sprite = Ironclad
+    unit_type = big_ship
+    capital = yes
+    move_sound = steam_move
+    select_sound = steam_selected
+    active = no
+    floating_flag = yes
+    can_build_overseas = no
+    colonial_points = 10
+
+
+    #Core Abilities
+    priority = 35
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 20
+    weighted_value = 6.0
+
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        steamer_convoy = 50     # 3250 | was 1625
+        artillery = 50             # 2400 | was 600
+        canned_food = 20         # 320  | was 160
+        regular_clothes = 20    # 116  | was 69.6
+    }
+    # Total: 6086 | was 3894.6
+    min_port_level = 2
+    limit_per_port = 10
+    supply_consumption_score = 3
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 0.7
+        artillery = 0.3
+        canned_food = 0.3
+        ammunition = 0.3
+        regular_clothes = 0.1
+        coal = 0.5
+        tobacco = 0.4
+    }
+
+    #Naval Abilities
+    hull = 12
+    gun_power = 12
+    fire_range = 0.5
+    evasion = 0
+}
+manowar = {
+    icon = 4
+    naval_icon = 1
+
+    sail = yes
+
+    type = naval
+    sprite = Manowar
+    unit_type = big_ship
+    capital = yes
+    floating_flag = yes
+    colonial_points = 5
+
+    #Core Abilities
+    priority = 25
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 6
+    weighted_value = 3.0
+    can_build_overseas = yes
+
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        clipper_convoy = 50 #2100£ | was 15 - 630£
+        artillery = 30 #1800 £ |was 10 - 600£
+        canned_food = 20 #320£ |was 8 - 128£
+        regular_clothes = 20 #116 £ | was 12 - 69.6£
+    }
+    #Total: 4336£ - was 1427.6 £
+    min_port_level = 1
+    limit_per_port = -1
+    supply_consumption_score = 2
+
+    supply_consumption = 1.0
+    supply_cost = {
+        clipper_convoy = 0.24
+        artillery = 0.08 #0.16
+    }
+
+    #Naval Abilties
+    hull = 3
+    gun_power = 6
+    fire_range = 0.3
+    evasion = 0
+}
+monitor = {
+    icon = 10
+    naval_icon = 7
+
+    type = naval
+    sprite = Monitor
+    unit_type = big_ship
+    floating_flag = yes
+    active = no
+    move_sound = steam_move
+    select_sound = steam_selected
+    can_build_overseas = no
+    colonial_points = 15
+
+
+    #Core Abilities
+    priority = 30
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 8
+    weighted_value = 10.0
+
+    #Building Costs
+    build_time = 360
+    build_cost = {
+        steamer_convoy = 40         # 2600 | was 25 - 1625
+        artillery = 60              # 3600 | was 12 - 720
+        canned_food = 20          # 320  | was 12 - 192
+        regular_clothes = 20      # 116  | was 12 - 69.6
+        fuel = 10                 # 250    | was 0
+    }
+    # Total: 6886 | was 2606.6
+    min_port_level = 3
+    limit_per_port = -1
+    supply_consumption_score = 3
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 0.5
+        artillery = 0.3
+        canned_food = 0.4
+        ammunition = 0.3
+        regular_clothes = 0.1
+        fuel = 0.5
+        coal = 0.5
+        tobacco = 0.6
+    }
+
+    #Naval Abilties
+    hull = 10
+    gun_power = 20
+    fire_range = 0.6
+    evasion = 0
+    torpedo_attack = 0
+}
+steam_transport = {
+    icon = 7
+    naval_icon = 4
+
+    type = naval
+    sprite = Steam_Transport
+    transport = yes
+    active = no
+    unit_type = transport
+    move_sound = steam_move
+    select_sound = steam_selected
+    floating_flag = yes
+
+    #Core Abilities
+    priority = 10
+    max_strength = 100
+    default_organisation = 30
+    maximum_speed = 16
+    weighted_value = 4.0
+    can_build_overseas = yes
+
+    #Building Costs
+    build_time = 90
+    build_cost = {
+        steamer_convoy = 5     #325
+        artillery = 2         #120
+        regular_clothes = 1 #5.8£
+        canned_food = 1     #16£
+    }
+    #Total: 466.8
+    min_port_level = 1
+    limit_per_port = -1
+    supply_consumption_score = 2
+
+    supply_consumption = 1.0
+    supply_cost = {
+        steamer_convoy = 0.10
+        small_arms = 0.1
+        ammunition = 0.05
+        canned_food = 0.05
+        regular_clothes = 0.05
+        coal = 0.1
+    }
+
+    #Naval Abilties
+    hull = 5
+    gun_power = 1
+    fire_range = 0.4
+    evasion = 0
+}
