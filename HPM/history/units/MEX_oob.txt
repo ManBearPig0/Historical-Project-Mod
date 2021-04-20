@@ -8,7 +8,7 @@ SPA = {
 leader = {
     name = "D. Francisco López "
     type = sea
-    date="1820.1.1"
+    date = "1820.1.1"
     personality = bastard
     background = no_background
 }
@@ -16,7 +16,7 @@ leader = {
 leader = {
     name = "Nicolas Bravo"
     type = land
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = heroic
     background = politician
 }
@@ -24,7 +24,7 @@ leader = {
 leader = {
     name = "Mariano Arista"
     type = land
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = skilled
     background = war_college
 }
@@ -32,7 +32,7 @@ leader = {
 leader = {
     name = "Juan Álvarez"
     type = land
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = skilled
     background = elderly
 }
@@ -40,7 +40,7 @@ leader = {
 leader = {
     name = "José de Herrera"
     type = land
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = soldierly
     background = exranker
 }
@@ -50,19 +50,19 @@ army = {
     location = 2177
 
     regiment = {
-        name= "1.Oajaca y Tlaxcala"
+        name = "1.Oajaca y Tlaxcala"
         type = irregular
         home = 2177
     }
 
     regiment = {
-        name= "2.Oajaca y Tlaxcala"
+        name = "2.Oajaca y Tlaxcala"
         type = irregular
         home = 2173
     }
 
     regiment = {
-        name= "3.Oajaca y Tlaxcala"
+        name = "3.Oajaca y Tlaxcala"
         type = irregular
         home = 2167
     }
@@ -73,19 +73,19 @@ army = {
     name = "Ejército del Ciudad Mejico"
     location = 2172
     regiment = {
-        name= "1.Division Comonfort"
+        name = "1.Division Comonfort"
         type = infantry
         home = 2176
     }
 
     regiment = {
-        name= "2.Division Comonfort"
+        name = "2.Division Comonfort"
         type = irregular
         home = 2159
     }
 
     regiment = {
-        name= "3.Division Comonfort"
+        name = "3.Division Comonfort"
         type = irregular
         home = 2174
     }
@@ -96,27 +96,27 @@ navy = {
     name = "Armada de Mexico"
     location = 2184
     ship = {
-        name= "Vencedor del Alamo"
+        name = "Vencedor del Alamo"
         type = frigate
     }
     ship = {
-        name= "Bravo"
+        name = "Bravo"
         type = frigate
     }
     ship = {
-        name= "Vera Cruzana"
+        name = "Vera Cruzana"
         type = frigate
     }
     ship = {
-        name= "Montezuma"
+        name = "Montezuma"
         type = frigate
     }
     ship = {
-        name= "Lubardo"
+        name = "Lubardo"
         type = frigate
     }
     ship = {
-        name= "Pelicano"
+        name = "Pelicano"
         type = frigate
     }
 

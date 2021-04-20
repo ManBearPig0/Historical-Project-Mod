@@ -205,55 +205,55 @@ army = {
     name = "1. Line Corps"
     location = 1049
     regiment = {
-        name= "1.1. Division"
+        name = "1.1. Division"
         type = infantry
         home = 994
     }
 
     regiment = {
-        name= "2.1. Division"
+        name = "2.1. Division"
         type = infantry
         home = 994
     }
 
     regiment = {
-        name= "3.1. Division"
+        name = "3.1. Division"
         type = infantry
         home = 994
     }
 
     regiment = {
-        name= "1.2. Division"
+        name = "1.2. Division"
         type = infantry
         home = 994
     }
 
     regiment = {
-        name= "2.2. Division"
+        name = "2.2. Division"
         type = infantry
         home = 1049
     }
 
     regiment = {
-        name= "3.2. Division"
+        name = "3.2. Division"
         type = infantry
         home = 1051
     }
 
     regiment = {
-        name= "1.3. Division"
+        name = "1.3. Division"
         type = infantry
         home = 1050
     }
 
     regiment = {
-        name= "2.3. Division"
+        name = "2.3. Division"
         type = infantry
         home = 1047
     }
 
     regiment = {
-        name= "3.3. Division"
+        name = "3.3. Division"
         type = infantry
         home = 1040
     }
@@ -264,55 +264,55 @@ army = {
     name = "2. Line Corps"
     location = 948
     regiment = {
-        name= "1.4. Division"
+        name = "1.4. Division"
         type = infantry
         home = 948
     }
 
     regiment = {
-        name= "2.4. Division"
+        name = "2.4. Division"
         type = infantry
         home = 957
     }
 
     regiment = {
-        name= "3.4. Division"
+        name = "3.4. Division"
         type = infantry
         home = 955
     }
 
     regiment = {
-        name= "1.5. Division"
+        name = "1.5. Division"
         type = infantry
         home = 712
     }
 
     regiment = {
-        name= "2.5. Division"
+        name = "2.5. Division"
         type = infantry
         home = 711
     }
 
     regiment = {
-        name= "3.5. Division"
+        name = "3.5. Division"
         type = infantry
         home = 937
     }
 
     regiment = {
-        name= "1.6. Division"
+        name = "1.6. Division"
         type = infantry
         home = 718
     }
 
     regiment = {
-        name= "2.6. Division"
+        name = "2.6. Division"
         type = infantry
         home = 946
     }
 
     regiment = {
-        name= "3.6. Division"
+        name = "3.6. Division"
         type = infantry
         home = 1006
     }
@@ -323,55 +323,55 @@ army = {
     name = "3. Line Corps"
     location = 999
     regiment = {
-        name= "1.7. Division"
+        name = "1.7. Division"
         type = infantry
         home = 1009
     }
 
     regiment = {
-        name= "2.7. Division"
+        name = "2.7. Division"
         type = infantry
         home = 998
     }
 
     regiment = {
-        name= "3.7. Division"
+        name = "3.7. Division"
         type = infantry
         home = 1001
     }
 
     regiment = {
-        name= "1.8. Division"
+        name = "1.8. Division"
         type = infantry
         home = 989
     }
 
     regiment = {
-        name= "2.8. Division"
+        name = "2.8. Division"
         type = infantry
         home = 991
     }
 
     regiment = {
-        name= "3.8. Division"
+        name = "3.8. Division"
         type = infantry
         home = 1022
     }
 
     regiment = {
-        name= "1.9. Division"
+        name = "1.9. Division"
         type = infantry
         home = 1020
     }
 
     regiment = {
-        name= "2.9. Division"
+        name = "2.9. Division"
         type = infantry
         home = 1028
     }
 
     regiment = {
-        name= "3.9. Division"
+        name = "3.9. Division"
         type = infantry
         home = 1031
     }
@@ -382,55 +382,55 @@ army = {
     name = "4. Line Corps"
     location = 354
     regiment = {
-        name= "1.10. Division"
+        name = "1.10. Division"
         type = infantry
         home = 706
     }
 
     regiment = {
-        name= "2.10. Division"
+        name = "2.10. Division"
         type = infantry
         home = 361
     }
 
     regiment = {
-        name= "3.10. Division"
+        name = "3.10. Division"
         type = infantry
         home = 940
     }
 
     regiment = {
-        name= "1.11. Division"
+        name = "1.11. Division"
         type = infantry
         home = 956
     }
 
     regiment = {
-        name= "2.11. Division"
+        name = "2.11. Division"
         type = infantry
         home = 997
     }
 
     regiment = {
-        name= "3.11. Division"
+        name = "3.11. Division"
         type = infantry
         home = 1003
     }
 
     regiment = {
-        name= "1.12. Division"
+        name = "1.12. Division"
         type = infantry
         home = 945
     }
 
     regiment = {
-        name= "2.12. Division"
+        name = "2.12. Division"
         type = infantry
         home = 999
     }
 
     regiment = {
-        name= "3.12. Division"
+        name = "3.12. Division"
         type = infantry
         home = 1014
     }
@@ -441,55 +441,55 @@ army = {
     name = "5. Line Corps"
     location = 943
     regiment = {
-        name= "1.13. Division"
+        name = "1.13. Division"
         type = infantry
         home = 943
     }
 
     regiment = {
-        name= "2.13. Division"
+        name = "2.13. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "3.13. Division"
+        name = "3.13. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "1.14. Division"
+        name = "1.14. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "2.14. Division"
+        name = "2.14. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "3.14. Division"
+        name = "3.14. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "1.15. Division"
+        name = "1.15. Division"
         type = infantry
         home = 1017
     }
 
     regiment = {
-        name= "2.15. Division"
+        name = "2.15. Division"
         type = infantry
         home = 963
     }
 
     regiment = {
-        name= "3.15. Division"
+        name = "3.15. Division"
         type = infantry
         home = 1011
     }
@@ -500,55 +500,55 @@ army = {
     name = "6. Line Corps"
     location = 958
     regiment = {
-        name= "1.16. Division"
+        name = "1.16. Division"
         type = infantry
         home = 958
     }
 
     regiment = {
-        name= "2.16. Division"
+        name = "2.16. Division"
         type = infantry
         home = 968
     }
 
     regiment = {
-        name= "3.16. Division"
+        name = "3.16. Division"
         type = infantry
         home = 969
     }
 
     regiment = {
-        name= "1.17. Division"
+        name = "1.17. Division"
         type = infantry
         home = 960
     }
 
     regiment = {
-        name= "2.17. Division"
+        name = "2.17. Division"
         type = infantry
         home = 954
     }
 
     regiment = {
-        name= "3.17. Division"
+        name = "3.17. Division"
         type = infantry
         home = 954
     }
 
     regiment = {
-        name= "1.18. Division"
+        name = "1.18. Division"
         type = infantry
         home = 954
     }
 
     regiment = {
-        name= "2.18. Division"
+        name = "2.18. Division"
         type = infantry
         home = 954
     }
 
     regiment = {
-        name= "3.18. Division"
+        name = "3.18. Division"
         type = infantry
         home = 954
     }
@@ -559,73 +559,73 @@ army = {
     name = "Army Corps of the Guard"
     location = 994
     regiment = {
-        name= "1.Preobrazhenski Guards Division"
+        name = "1.Preobrazhenski Guards Division"
         type = guard
         home = 949
     }
 
     regiment = {
-        name= "2.Preobrazhenski Guards Division"
+        name = "2.Preobrazhenski Guards Division"
         type = guard
         home = 1018
     }
 
     regiment = {
-        name= "3.Preobrazhenski Guards Division"
+        name = "3.Preobrazhenski Guards Division"
         type = guard
         home = 1019
     }
 
     regiment = {
-        name= "4.Preobrazhenski Guards Division"
+        name = "4.Preobrazhenski Guards Division"
         type = guard
         home = 1019
     }
 
     regiment = {
-        name= "1.Semenov Guards Division"
+        name = "1.Semenov Guards Division"
         type = guard
         home = 1019
     }
 
     regiment = {
-        name= "2.Semenov Guards Division"
+        name = "2.Semenov Guards Division"
         type = guard
         home = 1019
     }
 
     regiment = {
-        name= "3.Semenov Guards Division"
+        name = "3.Semenov Guards Division"
         type = guard
         home = 1012
     }
 
     regiment = {
-        name= "4.Semenov Guards Division"
+        name = "4.Semenov Guards Division"
         type = guard
         home = 1025
     }
 
     regiment = {
-        name= "1.Izmailova Guards Division"
+        name = "1.Izmailova Guards Division"
         type = guard
         home = 1021
     }
 
     regiment = {
-        name= "2.Izmailova Guards Division"
+        name = "2.Izmailova Guards Division"
         type = guard
         home = 980
     }
 
     regiment = {
-        name= "3.Izmailova Guards Division"
+        name = "3.Izmailova Guards Division"
         type = guard
         home = 979
     }
 
     regiment = {
-        name= "4.Izmailova Guards Division"
+        name = "4.Izmailova Guards Division"
         type = guard
         home = 964
     }
@@ -636,73 +636,73 @@ army = {
     name = "Grenadier Corps"
     location = 1008
     regiment = {
-        name= "1.St. Pauls Division"
+        name = "1.St. Pauls Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "2.St. Pauls Division"
+        name = "2.St. Pauls Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "3.St. Pauls Division"
+        name = "3.St. Pauls Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "4.St. Pauls Division"
+        name = "4.St. Pauls Division"
         type = artillery
         home = 1008
     }
 
     regiment = {
-        name= "1.Jaeger Division"
+        name = "1.Jaeger Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "2.Jaeger Division"
+        name = "2.Jaeger Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "3.Jaeger Division"
+        name = "3.Jaeger Division"
         type = infantry
         home = 1008
     }
 
     regiment = {
-        name= "4.Jaeger Division"
+        name = "4.Jaeger Division"
         type = engineer
         home = 1008
     }
 
     regiment = {
-        name= "1.Moskva Division"
+        name = "1.Moskva Division"
         type = infantry
         home = 1035
     }
 
     regiment = {
-        name= "2.Moskva Division"
+        name = "2.Moskva Division"
         type = infantry
         home = 1037
     }
 
     regiment = {
-        name= "3.Moskva Division"
+        name = "3.Moskva Division"
         type = infantry
         home = 1039
     }
 
     regiment = {
-        name= "4.Moskva Division"
+        name = "4.Moskva Division"
         type = artillery
         home = 1045
     }
@@ -713,61 +713,61 @@ army = {
     name = "Caucasian Special Corps "
     location = 1098
     regiment = {
-        name= "1.19. Division"
+        name = "1.19. Division"
         type = infantry
         home = 978
     }
 
     regiment = {
-        name= "2.19. Division"
+        name = "2.19. Division"
         type = infantry
         home = 979
     }
 
     regiment = {
-        name= "3.19. Division"
+        name = "3.19. Division"
         type = infantry
         home = 1047
     }
 
     regiment = {
-        name= "4.19. Division"
+        name = "4.19. Division"
         type = artillery
         home = 1050
     }
 
     regiment = {
-        name= "1.20. Division"
+        name = "1.20. Division"
         type = infantry
         home = 1090
     }
 
     regiment = {
-        name= "2.20. Division"
+        name = "2.20. Division"
         type = infantry
         home = 346
     }
 
     regiment = {
-        name= "3.20. Division"
+        name = "3.20. Division"
         type = infantry
         home = 345
     }
 
     regiment = {
-        name= "1.21. Division"
+        name = "1.21. Division"
         type = infantry
         home = 349
     }
 
     regiment = {
-        name= "2.21. Division"
+        name = "2.21. Division"
         type = infantry
         home = 954
     }
 
     regiment = {
-        name= "3.21. Division"
+        name = "3.21. Division"
         type = infantry
         home = 1029
     }
@@ -778,19 +778,19 @@ army = {
     name = "Finish Special Corps "
     location = 343
     regiment = {
-        name= "1.22. Division"
+        name = "1.22. Division"
         type = infantry
         home = 343
     }
 
     regiment = {
-        name= "2.22. Division"
+        name = "2.22. Division"
         type = infantry
         home = 343
     }
 
     regiment = {
-        name= "3.22. Division"
+        name = "3.22. Division"
         type = infantry
         home = 343
     }
@@ -801,19 +801,19 @@ army = {
     name = "Siberian Special Corps "
     location = 1075
     regiment = {
-        name= "1.23. Division"
+        name = "1.23. Division"
         type = infantry
         home = 1075
     }
 
     regiment = {
-        name= "2.23. Division"
+        name = "2.23. Division"
         type = infantry
         home = 1058
     }
 
     regiment = {
-        name= "3.23. Division"
+        name = "3.23. Division"
         type = infantry
         home = 1026
     }
@@ -824,61 +824,61 @@ army = {
     name = "Guards Cavalry Corps"
     location = 955
     regiment = {
-        name= "1.Chevalier Guards Division"
+        name = "1.Chevalier Guards Division"
         type = hussar
         home = 355
     }
 
     regiment = {
-        name= "2.Chevalier Guards Division"
+        name = "2.Chevalier Guards Division"
         type = hussar
         home = 360
     }
 
     regiment = {
-        name= "3.Chevalier Guards Division"
+        name = "3.Chevalier Guards Division"
         type = hussar
         home = 1042
     }
 
     regiment = {
-        name= "4.Chevalier Guards Division"
+        name = "4.Chevalier Guards Division"
         type = hussar
         home = 1034
     }
 
     regiment = {
-        name= "1.1. Cavalry Division"
+        name = "1.1. Cavalry Division"
         type = hussar
         home = 1060
     }
 
     regiment = {
-        name= "2.1. Cavalry Division"
+        name = "2.1. Cavalry Division"
         type = hussar
         home = 1064
     }
 
     regiment = {
-        name= "3.1. Cavalry Division"
+        name = "3.1. Cavalry Division"
         type = hussar
         home = 1063
     }
 
     regiment = {
-        name= "1.2. Cavalry Division"
+        name = "1.2. Cavalry Division"
         type = dragoon
         home = 954
     }
 
     regiment = {
-        name= "2.2. Cavalry Division"
+        name = "2.2. Cavalry Division"
         type = dragoon
         home = 954
     }
 
     regiment = {
-        name= "3.2. Cavalry Division"
+        name = "3.2. Cavalry Division"
         type = dragoon
         home = 954
     }
@@ -889,55 +889,55 @@ army = {
     name = "Reserve Cavalry Corps"
     location = 1009
     regiment = {
-        name= "1.3. Cavalry Division"
+        name = "1.3. Cavalry Division"
         type = cuirassier
         home = 1016
     }
 
     regiment = {
-        name= "2.3. Cavalry Division"
+        name = "2.3. Cavalry Division"
         type = cuirassier
         home = 962
     }
 
     regiment = {
-        name= "3.3. Cavalry Division"
+        name = "3.3. Cavalry Division"
         type = cuirassier
         home = 977
     }
 
     regiment = {
-        name= "1.4. Cavalry Division"
+        name = "1.4. Cavalry Division"
         type = dragoon
         home = 977
     }
 
     regiment = {
-        name= "2.4. Cavalry Division"
+        name = "2.4. Cavalry Division"
         type = dragoon
         home = 1018
     }
 
     regiment = {
-        name= "3.4. Cavalry Division"
+        name = "3.4. Cavalry Division"
         type = dragoon
         home = 1018
     }
 
     regiment = {
-        name= "1.5. Cavalry Division"
+        name = "1.5. Cavalry Division"
         type = cuirassier
         home = 1018
     }
 
     regiment = {
-        name= "2.5. Cavalry Division"
+        name = "2.5. Cavalry Division"
         type = cuirassier
         home = 1018
     }
 
     regiment = {
-        name= "3.5. Cavalry Division"
+        name = "3.5. Cavalry Division"
         type = cuirassier
         home = 1018
     }
@@ -948,19 +948,19 @@ army = {
     name = "Orenburg Special Corps "
     location = 1044
     regiment = {
-        name= "1.23. Division"
+        name = "1.23. Division"
         type = infantry
         home = 1044
     }
 
     regiment = {
-        name= "2.23. Division"
+        name = "2.23. Division"
         type = infantry
         home = 1019
     }
 
     regiment = {
-        name= "3.23. Division"
+        name = "3.23. Division"
         type = infantry
         home = 1019
     }
@@ -971,148 +971,148 @@ navy = {
     name = "Baltic Fleet"
     location = 994
     ship = {
-        name= "Imperator Nikolai I"
+        name = "Imperator Nikolai I"
         type = manowar
     }
 
     ship = {
-        name= "Sinop"
+        name = "Sinop"
         type = manowar
     }
 
     ship = {
-        name= "Tsesarevich"
+        name = "Tsesarevich"
         type = manowar
     }
 
     ship = {
-        name= "Imperator Pyotr I"
+        name = "Imperator Pyotr I"
         type = manowar
     }
 
     ship = {
-        name= "Vyborg"
+        name = "Vyborg"
         type = manowar
     }
 
     ship = {
-        name= "Oryol"
+        name = "Oryol"
         type = manowar
     }
 
     ship = {
-        name= "Retvisan"
+        name = "Retvisan"
         type = manowar
     }
 
     ship = {
-        name= "Krasnoi"
+        name = "Krasnoi"
         type = manowar
     }
 
     ship = {
-        name= "Konstantin"
+        name = "Konstantin"
         type = manowar
     }
 
 
     ship = {
-        name= "Vola"
+        name = "Vola"
         type = manowar
     }
 
     ship = {
-        name= "Pamiat Azova"
+        name = "Pamiat Azova"
         type = manowar
     }
 
     ship = {
-        name= "Ne Tron Menia"
+        name = "Ne Tron Menia"
         type = manowar
     }
 
     ship = {
-        name= "Imperatritsa Aleksandra"
+        name = "Imperatritsa Aleksandra"
         type = manowar
     }
 
     ship = {
-        name= "Gangut"
+        name = "Gangut"
         type = manowar
     }
 
     ship = {
-        name= "Narva"
+        name = "Narva"
         type = frigate
     }
 
     ship = {
-        name= "Borodino"
+        name = "Borodino"
         type = frigate
     }
 
     ship = {
-        name= "Vilagosh"
+        name = "Vilagosh"
         type = frigate
     }
 
     ship = {
-        name= "Sysoi Velikiy"
+        name = "Sysoi Velikiy"
         type = frigate
     }
 
     ship = {
-        name= "Kastor"
+        name = "Kastor"
         type = frigate
     }
 
     ship = {
-        name= "Aurora"
+        name = "Aurora"
         type = frigate
     }
 
     ship = {
-        name= "Polkan"
+        name = "Polkan"
         type = commerce_raider
     }
 
     ship = {
-        name= "Askold"
+        name = "Askold"
         type = commerce_raider
     }
 
     ship = {
-        name= "Ilya Muromets"
+        name = "Ilya Muromets"
         type = commerce_raider
     }
 
     ship = {
-        name= "Gromoboy"
+        name = "Gromoboy"
         type = commerce_raider
     }
 
     ship = {
-        name= "General Admiral"
+        name = "General Admiral"
         type = commerce_raider
     }
 
     ship = {
-        name= "Svetlana"
+        name = "Svetlana"
         type = commerce_raider
     }
 
     ship = {
-        name= "Oslyabya"
+        name = "Oslyabya"
         type = commerce_raider
     }
 
     ship = {
-        name= "Oleg"
+        name = "Oleg"
         type = commerce_raider
     }
 
     ship = {
-        name= "Peresvet"
+        name = "Peresvet"
         type = commerce_raider
     }
 
@@ -1122,52 +1122,52 @@ navy = {
     name = "1st Transport Squadron"
     location = 994
     ship = {
-        name= "1st Transport Flotilla"
+        name = "1st Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "2nd Transport Flotilla"
+        name = "2nd Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "3rd Transport Flotilla"
+        name = "3rd Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "4th Transport Flotilla"
+        name = "4th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "5th Transport Flotilla"
+        name = "5th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "6th Transport Flotilla"
+        name = "6th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "7th Transport Flotilla"
+        name = "7th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "8th Transport Flotilla"
+        name = "8th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "9th Transport Flotilla"
+        name = "9th Transport Flotilla"
         type = steam_transport
     }
 
     ship = {
-        name= "10th Transport Flotilla"
+        name = "10th Transport Flotilla"
         type = steam_transport
     }
 }

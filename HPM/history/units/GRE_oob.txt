@@ -1,7 +1,7 @@
 leader = {
     name = "von Heideck"
     type = land
-    date="1833.1.1"
+    date = "1833.1.1"
     personality = romantic
     background = poet
     prestige = 0.1
@@ -10,7 +10,7 @@ leader = {
 leader = {
     name = "Ioannis Kolokotronis"
     type = land
-    date="1833.1.1"
+    date = "1833.1.1"
     personality = aweless
     background = powerful_friends
     prestige = 0.1
@@ -19,7 +19,7 @@ leader = {
 leader = {
     name = "Antonios Kriezis"
     type = sea
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = audacious
     background = expert_raider
 }
@@ -28,19 +28,19 @@ army = {
     name = "Stratós Epeírou"
     location = 834
     regiment = {
-        name= "I. Taxiarchia Pezikou"
+        name = "I. Taxiarchia Pezikou"
         type = infantry
         home = 834
     }
 
     regiment = {
-        name= "II. Taxiarchia Pezikou"
+        name = "II. Taxiarchia Pezikou"
         type = infantry
         home = 837
     }
 
     regiment = {
-        name= "V. Vavariko Epikouriko Soma"
+        name = "V. Vavariko Epikouriko Soma"
         type = infantry
         home = 839
     }
@@ -51,42 +51,42 @@ navy = {
     location = 834
 
     ship = {
-        name= "1st Clipper Transport"
+        name = "1st Clipper Transport"
         type = clipper_transport
     }
 
     ship = {
-        name= "2nd Clipper Transport"
+        name = "2nd Clipper Transport"
         type = clipper_transport
     }
 
     ship = {
-        name= "1st Steam Transport"
+        name = "1st Steam Transport"
         type = steam_transport
     }
 
     ship = {
-        name= "2nd Steam Transport"
+        name = "2nd Steam Transport"
         type = steam_transport
     }
 
     ship = {
-        name= "Hellas"
+        name = "Hellas"
         type = frigate
     }
 
     ship = {
-        name= "Navarino"
+        name = "Navarino"
         type = frigate
     }
 
     ship = {
-        name= "Psara"
+        name = "Psara"
         type = frigate
     }
 
     ship = {
-        name= "Heratos"
+        name = "Heratos"
         type = frigate
     }
 

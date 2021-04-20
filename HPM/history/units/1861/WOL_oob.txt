@@ -26,14 +26,14 @@ army = {
     name = "Army of the Wolof Kingdoms"
         location = 1786
 regiment = {
-        name= "Buur-ba Jolof's Guards"
+        name = "Buur-ba Jolof's Guards"
         type = irregular
 
     home = 1786    }
 
 
 regiment = {
-        name= "Wolof Warriors"
+        name = "Wolof Warriors"
             type = irregular
     home = 2573
     }

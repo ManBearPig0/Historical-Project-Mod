@@ -38,19 +38,19 @@ army = {
     name = "Army of the Ras of Begemder"
     location = 1854
     regiment = {
-        name= "Ras' Guards"
+        name = "Ras' Guards"
         type = irregular
         home = 1854
     }
 
     regiment = {
-        name= "Ras' Horsemen"
+        name = "Ras' Horsemen"
         type = hussar
         home = 1854
     }
 
     regiment = {
-        name= "Begemder irregular"
+        name = "Begemder irregular"
         type = irregular
         home = 1854
     }
@@ -61,13 +61,13 @@ army = {
     name = "Army of the Emperor of Ethiopia"
     location = 1852
     regiment = {
-        name= "Imperial Guards"
+        name = "Imperial Guards"
         type = irregular
         home = 1852
     }
 
     regiment = {
-        name= "Gonder City Guard"
+        name = "Gonder City Guard"
         type = irregular
         home = 1852
     }
@@ -78,13 +78,13 @@ army = {
     name = "Army of the Negus of Gojjam"
     location = 1855
     regiment = {
-        name= "Negus' Guards"
+        name = "Negus' Guards"
         type = irregular
         home = 1855
     }
 
     regiment = {
-        name= "Gojjam irregular"
+        name = "Gojjam irregular"
         type = irregular
         home = 1855
     }

@@ -2,73 +2,73 @@
 #Europe
 POR = {
     value = -50        #relation
-    level = 1        #3=cordial, 4 = friendly, 5 sphere
+    level = 1        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 
 #North America
 MEX = {
     value = 75        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 UCA = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 
 #South America
 ECU = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 PEU = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 BOL = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 CHL = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 PRG = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 CLM = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 BRZ = {
     value = 100        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 URU = {
     value = 75        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 
 #Africa
 MOR = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 EGY = {
     value = 0        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 ASH = {
@@ -109,14 +109,14 @@ WOL = {
 }
 
 #Asia
-QNG ={
+QNG = {
     value = -10
     level = 0
     influence_value = 0
 }
 SUL = {
     value = 100        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    level = 5        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 
@@ -135,61 +135,61 @@ army = {
     name = "Ejército del Centro"
     location = 487
     regiment = {
-        name= "1. Brigada Real de Infantería"
+        name = "1. Brigada Real de Infantería"
         type = infantry
         home = 487
     }
 
     regiment = {
-        name= "2. Brigada Real de Infantería"
+        name = "2. Brigada Real de Infantería"
         type = infantry
         home = 489
     }
 
     regiment = {
-        name= "3. Brigada Real de Infantería"
+        name = "3. Brigada Real de Infantería"
         type = infantry
         home = 503
     }
 
     regiment = {
-        name= "4. Brigada Real de Infantería"
+        name = "4. Brigada Real de Infantería"
         type = infantry
         home = 509
     }
 
     regiment = {
-        name= "5. Brigada Real de Infantería"
+        name = "5. Brigada Real de Infantería"
         type = infantry
         home = 513
     }
 
     regiment = {
-        name= "1. Brigada de Artillería"
+        name = "1. Brigada de Artillería"
         type = artillery
         home = 495
     }
 
     regiment = {
-        name= "2. Brigada de Artillería"
+        name = "2. Brigada de Artillería"
         type = artillery
         home = 481
     }
 
     regiment = {
-        name= "3. Brigada de Artillería"
+        name = "3. Brigada de Artillería"
         type = artillery
         home = 487
     }
 
     regiment = {
-        name= "1. Escuadrón de Escolta Real"
+        name = "1. Escuadrón de Escolta Real"
         type = cuirassier
         home = 489
     }
 
     regiment = {
-        name= "2. Escuadrón de Escolta Real"
+        name = "2. Escuadrón de Escolta Real"
         type = cuirassier
         home = 488
     }
@@ -200,31 +200,31 @@ army = {
     location = 498
 
     regiment = {
-        name= "1. Brigada de Infantería"
+        name = "1. Brigada de Infantería"
         type = infantry
         home = 498
     }
 
     regiment = {
-        name= "4. Brigada de Artillería"
+        name = "4. Brigada de Artillería"
         type = artillery
         home = 476
     }
 
     regiment = {
-        name= "5. Brigada de Infantería"
+        name = "5. Brigada de Infantería"
         type = infantry
         home = 482
     }
 
     regiment = {
-        name= "2. Brigada de Infantería"
+        name = "2. Brigada de Infantería"
         type = infantry
         home = 483
     }
 
     regiment = {
-        name= "3. Brigada de Infantería"
+        name = "3. Brigada de Infantería"
         type = infantry
         home = 497
     }
@@ -235,31 +235,31 @@ army = {
     location = 512
 
     regiment = {
-        name= "4. Brigada de Infantería"
+        name = "4. Brigada de Infantería"
         type = infantry
         home = 512
     }
 
     regiment = {
-        name= "5. Brigada de Infantería"
+        name = "5. Brigada de Infantería"
         type = infantry
         home = 514
     }
 
     regiment = {
-        name= "6. Brigada de Infantería"
+        name = "6. Brigada de Infantería"
         type = infantry
         home = 510
     }
 
     regiment = {
-        name= "7. Brigada de Infantería"
+        name = "7. Brigada de Infantería"
         type = infantry
         home = 516
     }
 
     regiment = {
-        name= "5. Brigada de Artillería"
+        name = "5. Brigada de Artillería"
         type = artillery
         home = 515
     }
@@ -363,17 +363,17 @@ navy = {
     }
 
     ship = {
-        name= "1a Flotilla de Transporte"
+        name = "1a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "2a Flotilla de Transporte"
+        name = "2a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "3a Flotilla de Transporte"
+        name = "3a Flotilla de Transporte"
         type = clipper_transport
     }
 }
@@ -408,17 +408,17 @@ navy = {
     }
 
     ship = {
-        name= "1a Flotilla de Transporte"
+        name = "1a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "2a Flotilla de Transporte"
+        name = "2a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "3a Flotilla de Transporte"
+        name = "3a Flotilla de Transporte"
         type = clipper_transport
     }
 }
@@ -427,57 +427,57 @@ navy = {
     name = "Armada Real Española"
     location = 506
     ship = {
-        name= "San Raimundo"
+        name = "San Raimundo"
         type = manowar
     }
 
     ship = {
-        name= "Héroe"
+        name = "Héroe"
         type = manowar
     }
 
     ship = {
-        name= "San Pablo"
+        name = "San Pablo"
         type = manowar
     }
 
     ship = {
-        name= "Ceres"
+        name = "Ceres"
         type = frigate
     }
 
     ship = {
-        name= "Gloria"
+        name = "Gloria"
         type = frigate
     }
 
     ship = {
-        name= "Nuestra Señora de Asunción"
+        name = "Nuestra Señora de Asunción"
         type = frigate
     }
 
     ship = {
-        name= "Nuestra Señora de Atocha"
+        name = "Nuestra Señora de Atocha"
         type = frigate
     }
 
     ship = {
-        name= "Santa Sabina"
+        name = "Santa Sabina"
         type = frigate
     }
 
     ship = {
-        name= "1a Flotilla de Transporte"
+        name = "1a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "2a Flotilla de Transporte"
+        name = "2a Flotilla de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "3a Flotilla de Transporte"
+        name = "3a Flotilla de Transporte"
         type = clipper_transport
     }
 }

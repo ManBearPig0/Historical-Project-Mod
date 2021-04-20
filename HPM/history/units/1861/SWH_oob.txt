@@ -15,7 +15,7 @@ army = {
 
     regiment = {
 
-        name= "1. Schleswig-Hols. Landwehrbrigade"
+        name = "1. Schleswig-Hols. Landwehrbrigade"
         type = infantry
 
         home = 369
@@ -25,7 +25,7 @@ army = {
 
     regiment = {
 
-        name= "2. Schleswig-Hols. Landwehrbrigade"
+        name = "2. Schleswig-Hols. Landwehrbrigade"
 
         type = infantry
 

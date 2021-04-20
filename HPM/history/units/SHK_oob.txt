@@ -29,12 +29,12 @@ army = {
     location = 1832
 
 regiment = {
-        name= "1st Shilluk Warriors"
+        name = "1st Shilluk Warriors"
         type = irregular
         home = 1832    }
 
 regiment = {
-        name= "2nd Shilluk Warriors"
+        name = "2nd Shilluk Warriors"
         type = irregular
         home = 1832    }
 }

@@ -34,14 +34,14 @@ army = {
     name = "Army of the Nyim of Kuba"
     location = 1984
 regiment = {
-        name= "nyim's Guards"
+        name = "nyim's Guards"
             type = irregular
     home = 1984
     }
 
 
 regiment = {
-        name= "Kuba Warriors"
+        name = "Kuba Warriors"
             type = irregular
     home = 1984    }
 }

@@ -30,13 +30,13 @@ army = {
     name = "Ejército de Bolivia"
     location = 2310 #La Paz
     regiment = {
-        name= "1. Brigada de Infanteria"
+        name = "1. Brigada de Infanteria"
         type = infantry
         home = 2313
     }
 
     regiment = {
-        name= "2. Brigada de Infanteria"
+        name = "2. Brigada de Infanteria"
         type = infantry
         home = 2310
     }

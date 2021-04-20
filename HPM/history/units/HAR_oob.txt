@@ -38,13 +38,13 @@ army = {
     name = "Army of the Emir of Harar"
     location = 1865
     regiment = {
-        name= "Emir's Guards"
+        name = "Emir's Guards"
         type = irregular
         home = 1865
     }
 
     regiment = {
-        name= "Harari City Militia"
+        name = "Harari City Militia"
         type = irregular
         home = 1865
     }

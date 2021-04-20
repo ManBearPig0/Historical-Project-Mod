@@ -22,12 +22,12 @@ army = {
     name = "Army of the Majeerteen Sultanate"
     location = 1872
     regiment = {
-        name= "Shaykh's Guards"
+        name = "Shaykh's Guards"
         type = irregular
         home = 1872
     }
     regiment = {
-        name= "Berbera Warriors"
+        name = "Berbera Warriors"
         type = irregular
         home = 1873
     }

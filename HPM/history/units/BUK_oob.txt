@@ -16,7 +16,7 @@ location = 1198
 
 regiment = {
 
-name= "1st Buchara"
+name = "1st Buchara"
 
 type = cavalry
 
@@ -36,7 +36,7 @@ home = 1198
 
 regiment = {
 
-name= "3rd Buchara"
+name = "3rd Buchara"
 
 type = cavalry
         home = 1198
@@ -54,7 +54,7 @@ location = 1198
 
 regiment = {
 
-name= "4th Buchara"
+name = "4th Buchara"
 
 type = irregular
 
@@ -64,7 +64,7 @@ home = 1198
 
 regiment = {
 
-name= "5th Buchara"
+name = "5th Buchara"
 
 type = irregular
 
@@ -74,7 +74,7 @@ home = 1198
 
 regiment = {
 
-name= "6th Buchara"
+name = "6th Buchara"
 
 type = irregular
 
@@ -94,7 +94,7 @@ location = 1199
 
 regiment = {
 
-name= "1.Samarkand"
+name = "1.Samarkand"
 
 type = irregular
 
@@ -105,7 +105,7 @@ home = 1199
 
 regiment = {
 
-name= "2.Samarkand"
+name = "2.Samarkand"
 
 type = irregular
 
@@ -115,7 +115,7 @@ home = 1199
 
 regiment = {
 
-name= "3.Samarkand"
+name = "3.Samarkand"
 
 type = irregular
 

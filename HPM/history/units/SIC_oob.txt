@@ -37,43 +37,43 @@ army = {
     name = "Esercito delle Due Sicilia"
     location = 762
     regiment = {
-        name= "1. Fanteria - Re e Regina"
+        name = "1. Fanteria - Re e Regina"
         type = infantry
         home = 762
     }
 
     regiment = {
-        name= "2. Fanteria - Duca di Calabria"
+        name = "2. Fanteria - Duca di Calabria"
         type = infantry
         home = 757
     }
 
     regiment = {
-        name= "3. Fanteria - Duca di Noto"
+        name = "3. Fanteria - Duca di Noto"
         type = infantry
         home = 755
     }
 
     regiment = {
-        name= "1. Compagnia di Artiglieria"
+        name = "1. Compagnia di Artiglieria"
         type = artillery
         home = 761
     }
 
     regiment = {
-        name= "2. Compagnia di Artiglieria"
+        name = "2. Compagnia di Artiglieria"
         type = artillery
         home = 758
     }
 
     regiment = {
-        name= "1. Cavalleria - Re e Regina"
+        name = "1. Cavalleria - Re e Regina"
         type = dragoon
         home = 753
     }
 
     regiment = {
-        name= "2. Cavalleria - Re e Regina"
+        name = "2. Cavalleria - Re e Regina"
         type = dragoon
         home = 756
     }
@@ -84,19 +84,19 @@ army = {
     location = 754
 
     regiment = {
-        name= "Truppe Svizzere"
+        name = "Truppe Svizzere"
         type = guard
         home = 754
     }
 
     regiment = {
-        name= "Artiglieria Svizzere"
+        name = "Artiglieria Svizzere"
         type = artillery
         home = 2567
     }
 
     regiment = {
-        name= "Cavalleria Reale"
+        name = "Cavalleria Reale"
         type = hussar
         home = 762
     }
@@ -108,57 +108,57 @@ navy = {
     location = 754
 
     ship = {
-        name= "Capri"
+        name = "Capri"
         type = manowar
     }
 
     ship = {
-        name= "Vesuvio"
+        name = "Vesuvio"
         type = manowar
     }
 
     ship = {
-        name= "Amalia"
+        name = "Amalia"
         type = frigate
     }
 
     ship = {
-        name= "Cristina"
+        name = "Cristina"
         type = frigate
     }
 
     ship = {
-        name= "Regina Isabella"
+        name = "Regina Isabella"
         type = frigate
     }
 
     ship = {
-        name= "Urania"
+        name = "Urania"
         type = frigate
     }
 
     ship = {
-        name= "Partenope"
+        name = "Partenope"
         type = frigate
     }
 
     ship = {
-        name= "Francesco I"
+        name = "Francesco I"
         type = frigate
     }
 
     ship = {
-        name= "Ferdinando II"
+        name = "Ferdinando II"
         type = steam_transport
     }
 
     ship = {
-        name= "Nettuno"
+        name = "Nettuno"
         type = steam_transport
     }
 
     ship = {
-        name= "San Venefrede"
+        name = "San Venefrede"
         type = steam_transport
     }
 

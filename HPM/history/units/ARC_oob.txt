@@ -47,29 +47,29 @@ army = {
     name = "Ejército de Buenos Aires"
     location = 2348
     regiment = {
-        name= "1. División de Infantería"
+        name = "1. División de Infantería"
         type = infantry
         home = 2348
     }
 
     regiment = {
-        name= "2. División de Infantería"
+        name = "2. División de Infantería"
         type = infantry
         home = 2348
     }
 
     regiment = {
-        name= "3. División de Infantería"
+        name = "3. División de Infantería"
         type = infantry
         home = 2348
     }
     regiment = {
-        name= "1. División de Infantería"
+        name = "1. División de Infantería"
         type = infantry
         home = 2379
     }
     regiment = {
-        name= "2. División de Infantería"
+        name = "2. División de Infantería"
         type = infantry
         home = 2379
     }
@@ -79,23 +79,23 @@ navy = {
     name = "Armada de Argentina"
     location = 2348
     ship = {
-        name= "Republicano"
+        name = "Republicano"
         type = frigate
     }
     ship = {
-        name= "Echague"
+        name = "Echague"
         type = frigate
     }
     ship = {
-        name= "Chacabuco"
+        name = "Chacabuco"
         type = frigate
     }
     ship = {
-        name= "Americano"
+        name = "Americano"
         type = frigate
     }
     ship = {
-        name= "Nueve de Julio"
+        name = "Nueve de Julio"
         type = frigate
     }
 
@@ -113,7 +113,7 @@ leader = {
 leader = {
     name = "Guillermo Brown"
     type = sea
-    date="1830.1.1"
+    date = "1830.1.1"
     personality = clever
     background = nationalist
 }

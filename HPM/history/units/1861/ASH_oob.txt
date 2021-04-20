@@ -53,7 +53,7 @@ army = {
     location = 1910
     regiment = {
 
-        name= "Asantehene's Guards"
+        name = "Asantehene's Guards"
 
     type = cavalry
 
@@ -63,7 +63,7 @@ army = {
 
     regiment = {
 
-        name= "1st Ashanti Warriors"
+        name = "1st Ashanti Warriors"
 
     type = irregular
 
@@ -73,7 +73,7 @@ army = {
 
     regiment = {
 
-        name= "2nd Ashanti Warriors"
+        name = "2nd Ashanti Warriors"
 
     type = irregular
 
@@ -82,7 +82,7 @@ army = {
     }
     regiment = {
 
-        name= "3rd Ashanti Warriors"
+        name = "3rd Ashanti Warriors"
 
     type = irregular
 
@@ -102,7 +102,7 @@ army = {
     location = 1907
     regiment = {
 
-        name= "Asantehene's Guards"
+        name = "Asantehene's Guards"
 
     type = irregular
 
@@ -113,7 +113,7 @@ army = {
 
     regiment = {
 
-        name= "1st Ashanti Warriors"
+        name = "1st Ashanti Warriors"
 
     type = irregular
 

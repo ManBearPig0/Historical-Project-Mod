@@ -7,7 +7,7 @@ army = {
     location = 1387
 
     regiment = {
-        name= "Selangor State Troops"
+        name = "Selangor State Troops"
         type = irregular
         home = 1387
     }

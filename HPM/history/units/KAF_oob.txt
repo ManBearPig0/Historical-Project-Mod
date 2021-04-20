@@ -26,13 +26,13 @@ army = {
     name = "Army of the Kingdom of Kaffa"
     location = 1862
     regiment = {
-        name= "King's Warriors"
+        name = "King's Warriors"
         type = irregular
         home = 1862
     }
 
     regiment = {
-        name= "Bonga Warriors"
+        name = "Bonga Warriors"
         type = irregular
         home = 1862
     }
@@ -43,13 +43,13 @@ army = {
     name = "Army of the Moti of Jimma"
     location = 1862
     regiment = {
-        name= "Moti's Guards"
+        name = "Moti's Guards"
         type = irregular
         home = 1862
     }
 
     regiment = {
-        name= "Jimma Warriors"
+        name = "Jimma Warriors"
         type = irregular
         home = 1862
     }

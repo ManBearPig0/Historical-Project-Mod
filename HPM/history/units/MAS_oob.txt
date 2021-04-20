@@ -38,7 +38,7 @@ ASH = { value = -200 }
 leader = {
     name = "Seku Amadu"
     type = land
-    date="1836.1.1"
+    date = "1836.1.1"
     personality = charismatic
     background = innovative_tactician
 }
@@ -47,27 +47,27 @@ army = {
     location = 1804
 
 regiment = {
-        name= "Massina Cavalry"
+        name = "Massina Cavalry"
         type = cavalry
         home = 1804    }
 
 
 regiment = {
-        name= "1st Massina Jihadis"
+        name = "1st Massina Jihadis"
         type = irregular
     home = 1804
     }
 
 
 regiment = {
-        name= "2nd Massina Jihadis"
+        name = "2nd Massina Jihadis"
         type = irregular
     home = 1799
     }
 
 
 regiment = {
-        name= "3rd Massina Jihadis"
+        name = "3rd Massina Jihadis"
         type = irregular
     home = 1906    }
 }

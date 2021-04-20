@@ -93,13 +93,13 @@ army = {
     name = "4th Carlist Army"
     location = 499
     regiment = {
-        name= "16.Regiment"
+        name = "16.Regiment"
         type = infantry
         home = 499
     }
 
     regiment = {
-        name= "17.Regiment"
+        name = "17.Regiment"
         type = irregular
         home = 499
     }

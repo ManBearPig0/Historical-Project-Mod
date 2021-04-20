@@ -27,37 +27,37 @@ army = {
     name = "Army of Dost Mohammed"
     location = 1216
     regiment = {
-        name= "1. Mohammedzi"
+        name = "1. Mohammedzi"
         type = irregular
         home = 1209
     }
 
     regiment = {
-        name= "2. Mohammedzi"
+        name = "2. Mohammedzi"
         type = irregular
         home = 1209
     }
 
     regiment = {
-        name= "3. Mohammedzi"
+        name = "3. Mohammedzi"
         type = irregular
         home = 1216
     }
 
     regiment = {
-        name= "1. Barakzai"
+        name = "1. Barakzai"
         type = cavalry
         home = 1209
     }
 
     regiment = {
-        name= "2. Barakzai"
+        name = "2. Barakzai"
         type = cavalry
         home = 1209
     }
 
     regiment = {
-        name= "3. Barakzai"
+        name = "3. Barakzai"
         type = cavalry
         home = 1216
     }
@@ -68,37 +68,37 @@ army = {
     name = "Army of Kamran Shah"
     location = 1212
     regiment = {
-        name= "1. Popozai"
+        name = "1. Popozai"
         type = irregular
         home = 1212
     }
 
     regiment = {
-        name= "2. Popozai"
+        name = "2. Popozai"
         type = irregular
         home = 1213
     }
 
     regiment = {
-        name= "3. Popozai"
+        name = "3. Popozai"
         type = irregular
         home = 1213
     }
 
     regiment = {
-        name= "1. Tajiki"
+        name = "1. Tajiki"
         type = irregular
         home = 1213
     }
 
     regiment = {
-        name= "2. Tajiki"
+        name = "2. Tajiki"
         type = irregular
         home = 1212
     }
 
     regiment = {
-        name= "3. Tajiki"
+        name = "3. Tajiki"
         type = irregular
         home = 1212
     }
@@ -109,19 +109,19 @@ army = {
     name = "Army of Kohun-dil-Khan"
     location = 1215
     regiment = {
-        name= "1. Durranni"
+        name = "1. Durranni"
         type = irregular
         home = 1215
     }
 
     regiment = {
-        name= "2. Durranni"
+        name = "2. Durranni"
         type = irregular
         home = 1215
     }
 
     regiment = {
-        name= "3. Durranni"
+        name = "3. Durranni"
         type = irregular
         home = 1214
     }

@@ -24,37 +24,37 @@ army = {
     name = "Army of Emir Abdelkader"
     location = 1707
     regiment = {
-        name= "1.Askäris"
+        name = "1.Askäris"
         type = infantry
         home = 1707
     }
 
     regiment = {
-        name= "2.Askäris"
+        name = "2.Askäris"
         type = irregular
         home = 1702
     }
 
     regiment = {
-        name= "3.Askäris"
+        name = "3.Askäris"
         type = irregular
         home = 1705
     }
 
     regiment = {
-        name= "1.Spahis"
+        name = "1.Spahis"
         type = cavalry
         home = 1705
     }
 
     regiment = {
-        name= "2.Spahis"
+        name = "2.Spahis"
         type = cavalry
         home = 1715
     }
 
     regiment = {
-        name= "3.Spahis"
+        name = "3.Spahis"
         type = cavalry
         home = 1713
     }
@@ -65,37 +65,37 @@ army = {
     name = "Army of the Bey of Constantine"
     location = 1713
     regiment = {
-        name= "4.Askäris"
+        name = "4.Askäris"
         type = irregular
         home = 1708
     }
 
     regiment = {
-        name= "5.Askäris"
+        name = "5.Askäris"
         type = irregular
         home = 1703
     }
 
     regiment = {
-        name= "6.Askäris"
+        name = "6.Askäris"
         type = irregular
         home = 1702
     }
 
     regiment = {
-        name= "7.Askäris"
+        name = "7.Askäris"
         type = irregular
         home = 1703
     }
 
     regiment = {
-        name= "3.Spahis"
+        name = "3.Spahis"
         type = irregular
         home = 1708
     }
 
     regiment = {
-        name= "4.Spahis"
+        name = "4.Spahis"
         type = irregular
         home = 1710
     }

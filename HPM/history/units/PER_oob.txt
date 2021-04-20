@@ -34,19 +34,19 @@ army = {
     name = "The Shah's Army"
     location = 1121 #Tehran
     regiment = {
-        name= "Royal Guard"
+        name = "Royal Guard"
         type = guard
         home = 1121
     }
 
     regiment = {
-        name= "1. Zamburak"
+        name = "1. Zamburak"
         type = artillery
         home = 1147
     }
 
     regiment = {
-        name= "1. Nezam-Atlin"
+        name = "1. Nezam-Atlin"
         type = cavalry
         home = 1125
     }
@@ -56,19 +56,19 @@ army = {
     location = 1136 #Bushire
     name = "Southern Army"
     regiment = {
-        name= "2. Nezam-Atlin"
+        name = "2. Nezam-Atlin"
         type = cavalry
         home = 1124
     }
 
     regiment = {
-        name= "5. Nezam"
+        name = "5. Nezam"
         type = irregular
         home = 1130
     }
 
     regiment = {
-        name= "6. Nezam"
+        name = "6. Nezam"
         type = irregular
         home = 1122
     }
@@ -79,25 +79,25 @@ army = {
     name = "Nezam-e Jadid"
     location = 1108 #Tabriz
     regiment = {
-        name= "1. Nezam"
+        name = "1. Nezam"
         type = infantry
         home = 1113
     }
 
     regiment = {
-        name= "2. Nezam"
+        name = "2. Nezam"
         type = infantry
         home = 1116
     }
 
     regiment = {
-        name= "3. Nezam"
+        name = "3. Nezam"
         type = infantry
         home = 1142
     }
 
     regiment = {
-        name= "4. Nezam"
+        name = "4. Nezam"
         type = infantry
         home = 1141
     }

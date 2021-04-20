@@ -1,57 +1,57 @@
 #Sphere of Influence
 MEX = {
     value = 75        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 ECU = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 PEU = {
     value = -50        #relation
-    level = 0        #3=cordial, 4 = friendly, 5 sphere
+    level = 0        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 5
 }
 BOL = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 CHL = {
     value = -50        #relation
-    level = 0        #3=cordial, 4 = friendly, 5 sphere
+    level = 0        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 5
 }
 PRG = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 CLM = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 BRZ = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 URU = {
     value = 75        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 POR = {
     value = 100        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 SUL = {
     value = 30        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    level = 5        #3 = cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 MOR = {
@@ -172,22 +172,22 @@ navy = {
     name = "1a Escuadra del Norte"
     location = 474
     ship = {
-        name= "Bailén"
+        name = "Bailén"
         type = frigate
     }
 
     ship = {
-        name= "Reina María Cristina"
+        name = "Reina María Cristina"
         type = frigate
     }
 
     ship = {
-        name= "Cortes"
+        name = "Cortes"
         type = frigate
     }
 
     ship = {
-        name= "Esperanza"
+        name = "Esperanza"
         type = frigate
     }
 
@@ -197,12 +197,12 @@ navy = {
     name = "2a Escuadra del Norte"
     location = 512
     ship = {
-        name= "Rey Don Francisco de Asís"
+        name = "Rey Don Francisco de Asís"
         type = manowar
     }
 
     ship = {
-        name= "Reina Doña Isabel II"
+        name = "Reina Doña Isabel II"
         type = manowar
     }
 }
@@ -212,42 +212,42 @@ navy = {
     location = 2212
 
     ship = {
-        name= "Berenguela"
+        name = "Berenguela"
         type = commerce_raider
     }
 
     ship = {
-        name= "Reina Blanca"
+        name = "Reina Blanca"
         type = commerce_raider
     }
 
     ship = {
-        name= "Petronila"
+        name = "Petronila"
         type = commerce_raider
     }
 
     ship = {
-        name= "Hernán Cortés"
+        name = "Hernán Cortés"
         type = steam_transport
     }
 
     ship = {
-        name= "Isabel la Católica"
+        name = "Isabel la Católica"
         type = steam_transport
     }
 
     ship = {
-        name= "Jorge Juan"
+        name = "Jorge Juan"
         type = steam_transport
     }
 
     ship = {
-        name= "Blasco de Garay"
+        name = "Blasco de Garay"
         type = steam_transport
     }
 
     ship = {
-        name= "Vasco Núñez de Balboa"
+        name = "Vasco Núñez de Balboa"
         type = steam_transport
     }
 }
@@ -256,37 +256,37 @@ navy = {
     name = "Escuadra del Mediterráneo"
     location = 498
     ship = {
-        name= "Princesa de Asturias"
+        name = "Princesa de Asturias"
         type = commerce_raider
     }
 
     ship = {
-        name= "Lealtad"
+        name = "Lealtad"
         type = commerce_raider
     }
 
     ship = {
-        name= "Antonio Ulloa"
+        name = "Antonio Ulloa"
         type = steam_transport
     }
 
     ship = {
-        name= "Colón"
+        name = "Colón"
         type = steam_transport
     }
 
     ship = {
-        name= "Pizzaro"
+        name = "Pizzaro"
         type = steam_transport
     }
 
     ship = {
-        name= "Victoria de las Tunas"
+        name = "Victoria de las Tunas"
         type = steam_transport
     }
 
     ship = {
-        name= "Churruca"
+        name = "Churruca"
         type = steam_transport
     }
 
@@ -296,17 +296,17 @@ navy = {
     name = "Escuadra del Pacífico"
     location = 1455
     ship = {
-        name= "Favorita"
+        name = "Favorita"
         type = clipper_transport
     }
 
     ship = {
-        name= "Ferrolana"
+        name = "Ferrolana"
         type = clipper_transport
     }
 
     ship = {
-        name= "Mazarredo"
+        name = "Mazarredo"
         type = clipper_transport
     }
 
@@ -316,97 +316,97 @@ army = {
     name = "Ejército del Norte"
     location = 498
     regiment = {
-        name= "1.1a División de Infantería"
+        name = "1.1a División de Infantería"
         type = infantry
         home = 495
     }
 
     regiment = {
-        name= "2.1a División de Infantería"
+        name = "2.1a División de Infantería"
         type = infantry
         home = 497
     }
 
     regiment = {
-        name= "3.1a División de Infantería"
+        name = "3.1a División de Infantería"
         type = artillery
         home = 503
     }
 
     regiment = {
-        name= "1.2a División de Infantería"
+        name = "1.2a División de Infantería"
         type = infantry
         home = 503
     }
 
     regiment = {
-        name= "2.2a División de Infantería"
+        name = "2.2a División de Infantería"
         type = infantry
         home = 503
     }
 
     regiment = {
-        name= "3.2a División de Infantería"
+        name = "3.2a División de Infantería"
         type = infantry
         home = 503
     }
 
     regiment = {
-        name= "1.4a División de Infantería"
+        name = "1.4a División de Infantería"
         type = infantry
         home = 515
     }
 
     regiment = {
-        name= "2.4a División de Infantería"
+        name = "2.4a División de Infantería"
         type = infantry
         home = 516
     }
 
     regiment = {
-        name= "3.4a División de Infantería"
+        name = "3.4a División de Infantería"
         type = infantry
         home = 498
     }
 
     regiment = {
-        name= "1.3a División de Infantería"
+        name = "1.3a División de Infantería"
         type = infantry
         home = 490
     }
 
     regiment = {
-        name= "2.3a División de Infantería"
+        name = "2.3a División de Infantería"
         type = infantry
         home = 488
     }
 
     regiment = {
-        name= "3.3a División de Infantería"
+        name = "3.3a División de Infantería"
         type = engineer
         home = 489
     }
 
     regiment = {
-        name= "1.1a División de Caballería"
+        name = "1.1a División de Caballería"
         type = cuirassier
         home = 487
     }
 
     regiment = {
-        name= "2.1a División de Caballería"
+        name = "2.1a División de Caballería"
         type = cuirassier
         home = 487
     }
 
     regiment = {
-        name= "3.1a División de Caballería"
+        name = "3.1a División de Caballería"
         type = cuirassier
         home = 487
     }
 
     regiment = {
-        name= "4.1a División de Caballería"
+        name = "4.1a División de Caballería"
         type = hussar
         home = 487
     }
@@ -417,55 +417,55 @@ army = {
     name = "Ejército del Sur"
     location = 513
     regiment = {
-        name= "1.5a División de Infantería"
+        name = "1.5a División de Infantería"
         type = infantry
         home = 513
     }
 
     regiment = {
-        name= "2.5a División de Infantería"
+        name = "2.5a División de Infantería"
         type = infantry
         home = 513
     }
 
     regiment = {
-        name= "3.5a División de Infantería"
+        name = "3.5a División de Infantería"
         type = infantry
         home = 514
     }
 
     regiment = {
-        name= "1.6a División de Infantería"
+        name = "1.6a División de Infantería"
         type = infantry
         home = 512
     }
 
     regiment = {
-        name= "2.6a División de Infantería"
+        name = "2.6a División de Infantería"
         type = infantry
         home = 489
     }
 
     regiment = {
-        name= "3.6a División de Infantería"
+        name = "3.6a División de Infantería"
         type = infantry
         home = 510
     }
 
     regiment = {
-        name= "1.7a División de Infantería"
+        name = "1.7a División de Infantería"
         type = infantry
         home = 509
     }
 
     regiment = {
-        name= "2.7a División de Caballería"
+        name = "2.7a División de Caballería"
         type = dragoon
         home = 509
     }
 
     regiment = {
-        name= "3.7a División de Infantería"
+        name = "3.7a División de Infantería"
         type = engineer
         home = 491
     }
@@ -476,43 +476,43 @@ army = {
     name = "Ejército de Cuba"
     location = 2212
     regiment = {
-        name= "1.1a Infantería Colonial"
+        name = "1.1a Infantería Colonial"
         type = infantry
         home = 481
     }
 
     regiment = {
-        name= "2.1a Infantería Colonial"
+        name = "2.1a Infantería Colonial"
         type = infantry
         home = 482
     }
 
     regiment = {
-        name= "3.1a Infantería Colonial"
+        name = "3.1a Infantería Colonial"
         type = infantry
         home = 476
     }
 
     regiment = {
-        name= "4.1a Caballeria Colonial"
+        name = "4.1a Caballeria Colonial"
         type = cuirassier
         home = 2209
     }
 
     regiment = {
-        name= "1.2a Infantería Colonial"
+        name = "1.2a Infantería Colonial"
         type = infantry
         home = 476
     }
 
     regiment = {
-        name= "2.2a Infantería Colonial"
+        name = "2.2a Infantería Colonial"
         type = infantry
         home = 476
     }
 
     regiment = {
-        name= "3.2a Infantería Colonial"
+        name = "3.2a Infantería Colonial"
         type = engineer
         home = 487
     }
@@ -523,19 +523,19 @@ army = {
     name = "Ejército de Puerto Rico"
     location = 2222
     regiment = {
-        name= "1.3a Infantería Colonial"
+        name = "1.3a Infantería Colonial"
         type = infantry
         home = 474
     }
 
     regiment = {
-        name= "2.3a Infantería Colonial"
+        name = "2.3a Infantería Colonial"
         type = infantry
         home = 474
     }
 
     regiment = {
-        name= "3.3a Infantería Colonial"
+        name = "3.3a Infantería Colonial"
         type = infantry
         home = 474
     }
@@ -546,37 +546,37 @@ army = {
     name = "Ejército de Filipinas"
     location = 1455
     regiment = {
-        name= "1.4a Infantería Colonial"
+        name = "1.4a Infantería Colonial"
         type = infantry
         home = 1455
     }
 
     regiment = {
-        name= "2.4a Infantería Colonial"
+        name = "2.4a Infantería Colonial"
         type = infantry
         home = 1457
     }
 
     regiment = {
-        name= "3.4a Infantería Colonial"
+        name = "3.4a Infantería Colonial"
         type = infantry
         home = 1455
     }
 
     regiment = {
-        name= "1.5a Infantería Colonial"
+        name = "1.5a Infantería Colonial"
         type = infantry
         home = 1456
     }
 
     regiment = {
-        name= "2.5a Infantería Colonial"
+        name = "2.5a Infantería Colonial"
         type = infantry
         home = 1456
     }
 
     regiment = {
-        name= "3.5a Infantería Colonial"
+        name = "3.5a Infantería Colonial"
         type = artillery
         home = 1456
     }

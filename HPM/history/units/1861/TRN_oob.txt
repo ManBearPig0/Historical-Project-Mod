@@ -11,25 +11,25 @@ army = {
     name = "Volunteer Army"
     location = 2105
     regiment = {
-        name= "Pretoria Commando"
+        name = "Pretoria Commando"
         type = dragoon
         home = 2105
     }
 
     regiment = {
-        name= "Johannesburg Commando"
+        name = "Johannesburg Commando"
         type = dragoon
         home = 2106
     }
 
     regiment = {
-        name= "Klerksdorp Commando"
+        name = "Klerksdorp Commando"
         type = dragoon
         home = 2107
     }
 
     regiment = {
-        name= "Lydenburg Commando"
+        name = "Lydenburg Commando"
         type = dragoon
         home = 2109
     }

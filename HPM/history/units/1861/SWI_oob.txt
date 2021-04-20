@@ -29,17 +29,17 @@ army = {
     name = "Bundesausug I. Division"
     location = 603
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 603
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 603
     }
     regiment = {
-        name= "Scharfschütze-Brigade"
+        name = "Scharfschütze-Brigade"
         type = guard
         home = 603
     }
@@ -48,17 +48,17 @@ army = {
     name = "Bundesausug II. Division"
     location = 604
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 604
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 608
     }
     regiment = {
-        name= "Brigade der Kavallerie"
+        name = "Brigade der Kavallerie"
         type = dragoon
         home = 604
     }
@@ -68,17 +68,17 @@ army = {
     name = "Bundesausug III. Division"
     location = 605
     regiment = {
-         name= "Brigade der Infanterie"
+         name = "Brigade der Infanterie"
         type = infantry
         home = 605
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 603
     }
     regiment = {
-        name= "Brigade Artillerie"
+        name = "Brigade Artillerie"
         type = artillery
         home = 603
     }
@@ -88,17 +88,17 @@ army = {
     name = "Bundesausug IV. Division"
     location = 606
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 606
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 2568
     }
     regiment = {
-        name= "Brigade Artillerie"
+        name = "Brigade Artillerie"
         type = artillery
         home = 606
     }
@@ -108,17 +108,17 @@ army = {
     name = "Bundesausug V. Division"
     location = 607
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 607
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = infantry
         home = 607
     }
     regiment = {
-        name= "Brigade der Infanterie"
+        name = "Brigade der Infanterie"
         type = engineer
         home = 609
     }

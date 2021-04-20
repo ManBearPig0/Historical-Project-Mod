@@ -22,27 +22,27 @@ army = {
     name = "Army of Daimyo Shimazu"
     location = 1662
     regiment = {
-        name= "1.Samurai"
+        name = "1.Samurai"
         type = dragoon
         home = 1662
     }
     regiment = {
-        name= "2.Samurai"
+        name = "2.Samurai"
         type = dragoon
         home = 1662
     }
     regiment = {
-        name= "1.Satsuma"
+        name = "1.Satsuma"
         type = infantry
         home = 1662
     }
     regiment = {
-        name= "2.Satsuma"
+        name = "2.Satsuma"
         type = infantry
         home = 1661
     }
     regiment = {
-        name= "3.Satsuma"
+        name = "3.Satsuma"
         type = infantry
         home = 1660
     }

@@ -24,7 +24,7 @@ PRG = {
 leader = {
     name = "Juan Lavalle"
     type = land
-    date="1810.1.1"
+    date = "1810.1.1"
     personality = hellbent
     background = nationalist
 }
@@ -32,7 +32,7 @@ leader = {
 leader = {
     name = "Pablo Zufriategui"
     type = sea
-    date="1810.1.1"
+    date = "1810.1.1"
     personality = relentless
     background = nationalist
 }
@@ -41,7 +41,7 @@ army = {
     name = "Ejército del Uruguay"
     location = 2344
     regiment = {
-        name= "1. División de Infantería"
+        name = "1. División de Infantería"
         type = infantry
         home = 2345
     }
@@ -51,19 +51,19 @@ navy = {
     name = "Armada del Uruguay"
     location = 2344
     ship = {
-        name= "Sarandí"
+        name = "Sarandí"
         type = frigate
     }
     ship = {
-        name= "General Rivera"
+        name = "General Rivera"
         type = frigate
     }
     ship = {
-        name= "General Artigas"
+        name = "General Artigas"
         type = frigate
     }
     ship = {
-        name= "Águila"
+        name = "Águila"
         type = frigate
     }
 

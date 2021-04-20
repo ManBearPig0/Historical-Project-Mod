@@ -2,12 +2,12 @@ army = {
     name = "Arab Army"
     location = 1732
     regiment = {
-        name= "1st Arab Battalion"
+        name = "1st Arab Battalion"
         type = irregular
         home = 1732
     }
     regiment = {
-        name= "1st Arab Battalion"
+        name = "1st Arab Battalion"
         type = irregular
         home = 1732
     }
@@ -18,7 +18,7 @@ army = {
     name = "Berbers"
     location = 1744
     regiment = {
-        name= "1.Imazighen"
+        name = "1.Imazighen"
         type = irregular
         home = 1744
     }
@@ -28,7 +28,7 @@ army = {
     name = "Tuareg"
     location = 1740
     regiment = {
-        name= "1.Ihajenem"
+        name = "1.Ihajenem"
         type = irregular
         home = 1740
     }

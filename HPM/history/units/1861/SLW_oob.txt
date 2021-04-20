@@ -6,7 +6,7 @@ army = {
 
     regiment = {
 
-        name= "1st irregular"
+        name = "1st irregular"
 
         type = irregular
 
@@ -17,7 +17,7 @@ army = {
 
     regiment = {
 
-        name= "2nd irregular"
+        name = "2nd irregular"
 
         type = irregular
         home = 1431
@@ -26,7 +26,7 @@ army = {
 
     regiment = {
 
-        name= "3rd irregular"
+        name = "3rd irregular"
 
         type = irregular
         home = 1432

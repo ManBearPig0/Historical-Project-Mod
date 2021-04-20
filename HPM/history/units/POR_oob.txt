@@ -74,37 +74,37 @@ army = {
     name = "Exército Português"
     location = 521
     regiment = {
-        name= "1. Brigada de Infantaria"
+        name = "1. Brigada de Infantaria"
         type = infantry
         home = 521
     }
 
     regiment = {
-        name= "2. Brigada de Infantaria"
+        name = "2. Brigada de Infantaria"
         type = infantry
         home = 524
     }
 
     regiment = {
-        name= "3. Brigada de Infantaria"
+        name = "3. Brigada de Infantaria"
         type = infantry
         home = 518
     }
 
     regiment = {
-        name= "4. Brigada de Infantaria"
+        name = "4. Brigada de Infantaria"
         type = infantry
         home = 520
     }
 
     regiment = {
-        name= "1. Brigada de Artilharia"
+        name = "1. Brigada de Artilharia"
         type = artillery
         home = 522
     }
 
     regiment = {
-        name= "1. Brigada de Cavalaria"
+        name = "1. Brigada de Cavalaria"
         type = cuirassier
         home = 519
     }
@@ -148,91 +148,91 @@ navy = {
     name = "Portuguese Royal Navy"
     location = 521
     ship = {
-        name= "Rainha de Portugal"
+        name = "Rainha de Portugal"
         type = manowar
     }
 
     ship = {
-        name= "Dom João VI"
+        name = "Dom João VI"
         type = manowar
     }
 
     ship = {
-        name= "Nossa Senhora da Conceição"
+        name = "Nossa Senhora da Conceição"
         type = manowar
     }
 
     ship = {
-        name= "São Sebastião"
+        name = "São Sebastião"
         type = manowar
     }
 
     ship = {
-        name= "Amazônia"
+        name = "Amazônia"
         type = manowar
     }
 
     ship = {
-        name= "Princesa Carlota"
+        name = "Princesa Carlota"
         type = manowar
     }
 
     ship = {
-        name= "Teresa"
+        name = "Teresa"
         type = manowar
     }
 
     ship = {
-        name= "Príncipe do Brasil"
+        name = "Príncipe do Brasil"
         type = manowar
     }
 
     ship = {
-        name= "Algarves"
+        name = "Algarves"
         type = manowar
     }
 
     ship = {
-        name= "Maria II"
+        name = "Maria II"
         type = manowar
     }
 
     ship = {
-        name= "1o Navios de Transporte"
+        name = "1o Navios de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "2o Navios de Transporte"
+        name = "2o Navios de Transporte"
         type = clipper_transport
     }
 
     ship = {
-        name= "3o Navios de Transporte"
+        name = "3o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "4o Navios de Transporte"
+        name = "4o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "5o Navios de Transporte"
+        name = "5o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "6o Navios de Transporte"
+        name = "6o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "7o Navios de Transporte"
+        name = "7o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "8o Navios de Transporte"
+        name = "8o Navios de Transporte"
         type = clipper_transport
     }
     ship = {
-        name= "9o Navios de Transporte"
+        name = "9o Navios de Transporte"
         type = clipper_transport
     }
 

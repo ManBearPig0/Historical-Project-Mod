@@ -4,31 +4,31 @@ army = {
 
 
     regiment = {
-        name= "1. Brigade"
+        name = "1. Brigade"
         type = infantry
         home = 1051
     }
 
     regiment = {
-        name= "2. Brigade"
+        name = "2. Brigade"
         type = infantry
         home = 1049
     }
 
     regiment = {
-        name= "3. Brigade"
+        name = "3. Brigade"
         type = infantry
         home = 1051
     }
 
     regiment = {
-        name= "4. Cavalry"
+        name = "4. Cavalry"
         type = cavalry
         home = 1051
     }
 
     regiment = {
-        name= "5. Cavalry"
+        name = "5. Cavalry"
         type = cavalry
         home = 1049
     }

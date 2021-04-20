@@ -2,31 +2,31 @@ army = {
     name = "1st Army of Kokand"
     location = 1195
     regiment = {
-        name= "3. Uzbek"
+        name = "3. Uzbek"
         type = cavalry
         home = 1195
     }
 
     regiment = {
-        name= "1. Tajik"
+        name = "1. Tajik"
         type = irregular
         home = 1208
     }
 
     regiment = {
-        name= "4. Uzbek"
+        name = "4. Uzbek"
         type = irregular
         home = 1201
     }
 
     regiment = {
-        name= "3. Kirghiz"
+        name = "3. Kirghiz"
         type = irregular
         home = 1189
     }
 
     regiment = {
-        name= "4. Kirghiz"
+        name = "4. Kirghiz"
         type = irregular
         home = 1189
     }
@@ -37,25 +37,25 @@ army = {
     name = "2nd Army of Kokand"
     location = 1202
     regiment = {
-        name= "1. Uzbek"
+        name = "1. Uzbek"
         type = cavalry
         home = 1202
     }
 
     regiment = {
-        name= "2. Uzbek"
+        name = "2. Uzbek"
         type = irregular
         home = 1202
     }
 
     regiment = {
-        name= "1. Kirghiz"
+        name = "1. Kirghiz"
         type = irregular
         home = 1190
     }
 
     regiment = {
-        name= "2. Kirghiz"
+        name = "2. Kirghiz"
         type = irregular
         home = 1203
     }

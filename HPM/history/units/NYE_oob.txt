@@ -42,7 +42,7 @@ army = {
 
     regiment = {
 
-        name= "1. Abdali"
+        name = "1. Abdali"
 
         type = cavalry
 
@@ -50,7 +50,7 @@ army = {
     }
     regiment = {
 
-        name= "2. Abdali"
+        name = "2. Abdali"
 
         type = irregular
 
