@@ -1,0 +1,94 @@
+### RGOs Templates #####################################################################################
+
+RGO_template_farmers = {
+
+    owner = {
+        poptype = aristocrats
+        effect = output
+    }
+
+    employees = {
+        {
+            poptype = farmers
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = serfs
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = slaves
+            effect = throughput
+            amount = 1
+            effect_multiplier = 1.4
+        }
+    }
+
+    type = rgo
+    workforce = 40000
+}
+
+RGO_template_labourers = {
+    owner = {
+        poptype = aristocrats
+        effect = output
+    }
+
+    employees = {
+        {
+            poptype = labourers
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = serfs
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = slaves
+            effect = throughput
+            amount = 1
+            effect_multiplier = 1.4
+        }
+    }
+
+    type = rgo
+    workforce = 40000
+}
+
+RGO_template_mines = {
+    owner = {
+        poptype = aristocrats
+        effect = output
+    }
+    employees = {
+        {
+            poptype = labourers
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = serfs
+            effect = throughput
+            amount = 1
+        }
+
+        {
+            poptype = slaves
+            effect = throughput
+            amount = 1
+            effect_multiplier = 1.4
+        }
+    }
+
+    type = rgo
+    workforce = 40000
+}
