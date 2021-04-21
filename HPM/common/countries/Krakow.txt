@@ -155,7 +155,7 @@ unit_names = {
         Anna Maria Katarzyna Barbara Ewa Zofia Monika
     }
     monitor = {
-        "Jan Sarkander""Andrzej Bobola" "Jan Kety" " Stanislaus Kostka" "Stanislaw Szczepanowski" "Swieta Kinga"
+        "Jan Sarkander" "Andrzej Bobola" "Jan Kety" "Stanislaus Kostka" "Stanislaw Szczepanowski" "Swieta Kinga"
     }
     clipper_transport = {
 
