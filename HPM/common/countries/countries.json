@@ -21618,7 +21618,7 @@
 },
 {
 	"country": "Fiji",
-	"color": "{8",
+	"color": "#08b5ff",
 	"graphical_culture": "Generic",
 	"party": {
 	"name": "FSM_liberal",
@@ -27516,7 +27516,7 @@
 },
 {
 	"country": "India",
-	"color": "{247",
+	"color": "#f79b35",
 	"graphical_culture": "IndianGC",
 	"party": {
 	"name": "HND_conservative",
