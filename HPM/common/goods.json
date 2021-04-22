@@ -1,0 +1,237 @@
+"goods": [
+	"military_goods": {
+	"ammunition": {
+	"cost": "18.00",
+	"color": "#d0ca7f",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	},
+	"small_arms": {
+	"cost": "37.00",
+	"color": "#bd7616",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	},
+	"artillery": {
+	"cost": "60.00",
+	"color": "#918256",
+	"available_from_start": false,
+	},
+	"canned_food": {
+	"cost": "16.00",
+	"color": "#ff270c",
+	"overseas_penalty": true,
+	},
+	"barrels": {
+	"cost": "98.00",
+	"color": "#372909",
+	"available_from_start": false,
+	},
+	"aeroplanes": {
+	"cost": "110.00",
+	"color": "#ddd5b6",
+	"available_from_start": false,
+	},
+	},
+	"raw_material_goods": {
+	"cotton": {
+	"cost": "2.0",
+	"color": "#ffffff",
+	},
+	"dye": {
+	"cost": "12.00",
+	"color": "#4500b6",
+	},
+	"wool": {
+	"cost": "0.7",
+	"color": "#eac39e",
+	},
+	"silk": {
+	"cost": "10.0",
+	"color": "#7d9e2b",
+	},
+	"coal": {
+	"cost": "2.3",
+	"color": "#0b1d4d",
+	},
+	"sulphur": {
+	"cost": "6.0",
+	"color": "#b5e466",
+	},
+	"iron": {
+	"cost": "3.5",
+	"color": "#6f6f6f",
+	},
+	"timber": {
+	"cost": "0.9",
+	"color": "#924811",
+	},
+	"tropical_wood": {
+	"cost": "5.4",
+	"color": "#d5b176",
+	},
+	"rubber": {
+	"cost": "7.0",
+	"color": "#7b6e56",
+	},
+	"oil": {
+	"cost": "12.0",
+	"color": "#000000",
+	},
+	"precious_metal": {
+	"cost": 8,
+	"tradeable": false,
+	"money": true,
+	"color": "#fdc76e",
+	},
+	"precious_goods": {
+	"cost": 7,
+	"tradeable": false,
+	"money": true,
+	"color": "#f7f13d",
+	},
+	},
+	"industrial_goods": {
+	"steel": {
+	"cost": "4.7",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	"color": "#5f8093",
+	},
+	"cement": {
+	"cost": "16.0",
+	"overseas_penalty": true,
+	"color": "#b9bba4",
+	},
+	"machine_parts": {
+	"cost": "36.5",
+	"color": "#b1c6c4",
+	"available_from_start": false,
+	},
+	"glass": {
+	"cost": "2.9",
+	"color": "#c9c8c7",
+	},
+	"fuel": {
+	"cost": "25.00",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	"color": "#916e59",
+	},
+	"fertilizer": {
+	"cost": "10.0",
+	"available_from_start": false,
+	"color": "#856523",
+	},
+	"explosives": {
+	"cost": "20.00",
+	"color": "#c04414",
+	"available_from_start": false,
+	},
+	"clipper_convoy": {
+	"cost": "42.00",
+	"overseas_penalty": true,
+	"available_from_start": false,
+	"color": "#15411e",
+	},
+	"steamer_convoy": {
+	"cost": "65.00",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	"color": "#4c1200",
+	},
+	"electric_gear": {
+	"cost": "16.00",
+	"available_from_start": false,
+	"color": "#ffff00",
+	},
+	"fabric": {
+	"cost": "1.8",
+	"color": "#ba3228",
+	},
+	"lumber": {
+	"cost": "1.0",
+	"color": "#b45e1a",
+	},
+	},
+	"consumer_goods": {
+	"paper": {
+	"cost": "3.4",
+	"color": "#d8b94d",
+	},
+	"cattle": {
+	"cost": "2.0",
+	"color": "#54e328",
+	},
+	"fish": {
+	"cost": "1.5",
+	"color": "#806249",
+	},
+	"fruit": {
+	"cost": "1.8",
+	"color": "#ff0000",
+	},
+	"grain": {
+	"cost": "2.2",
+	"color": "#db9d24",
+	},
+	"tobacco": {
+	"cost": "1.1",
+	"color": "#64451e",
+	},
+	"tea": {
+	"cost": "2.6",
+	"color": "#c9870f",
+	},
+	"coffee": {
+	"cost": "2.1",
+	"color": "#1b1307",
+	},
+	"opium": {
+	"cost": "3.2",
+	"color": "#72a22f",
+	},
+	"automobiles": {
+	"cost": "70.00",
+	"available_from_start": false,
+	"color": "#3d4340",
+	},
+	"telephones": {
+	"cost": "16.00",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	"color": "#7b7036",
+	},
+	"wine": {
+	"cost": "9.7",
+	"available_from_start": false,
+	"color": "#7b0036",
+	},
+	"liquor": {
+	"cost": "4.4",
+	"color": "#4c0500",
+	},
+	"regular_clothes": {
+	"cost": "5.8",
+	"color": "#d91113",
+	},
+	"luxury_clothes": {
+	"cost": "65.00",
+	"color": "#eae328",
+	},
+	"furniture": {
+	"cost": "4.9",
+	"color": "#ad8128",
+	},
+	"luxury_furniture": {
+	"cost": "59.00",
+	"color": "#ff8cb8",
+	},
+	"radio": {
+	"cost": "16.00",
+	"available_from_start": false,
+	"overseas_penalty": true,
+	"color": "#813f06",
+	},
+	},
+]

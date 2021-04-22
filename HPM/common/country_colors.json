@@ -1,0 +1,732 @@
+"country_colors": [
+	"SWE": {
+	"color1": "#3e7abd",
+	"color2": "#ffffff",
+	"color3": "#c11a0e",
+	},
+	"DEN": {
+	"color1": "#4550a9",
+	"color2": "#459dd0",
+	"color3": "#89b77c",
+	},
+	"FIN": {
+	"color1": "#b68664",
+	"color2": "#276c8c",
+	"color3": "#709669",
+	},
+	"NOR": {
+	"color1": "#75a5bc",
+	"color2": "#ca7055",
+	"color3": "#68898c",
+	},
+	"ALB": {
+	"color1": "#b5486a",
+	"color2": "#a17e80",
+	"color3": "#836555",
+	},
+	"AWA": {
+	"color1": "#d73b35",
+	"color2": "#ffd855",
+	"color3": "#757fae",
+	},
+	"BEL": {
+	"color1": "#f43831",
+	"color2": "#f8c743",
+	"color3": "#6baa4d",
+	},
+	"BOS": {
+	"color1": "#f0a782",
+	"color2": "#7ecb78",
+	"color3": "#6baa4d",
+	},
+	"BUL": {
+	"color1": "#8ccf74",
+	"color2": "#ffffff",
+	"color3": "#539569",
+	},
+	"CRO": {
+	"color1": "#aee35f",
+	"color2": "#81b17d",
+	"color3": "#a6bdc7",
+	},
+	"CYP": {
+	"color1": "#4e4b27",
+	"color2": "#ec9f59",
+	"color3": "#504f58",
+	},
+	"FRM": {
+	"color1": "#f43831",
+	"color2": "#646464",
+	"color3": "#504f58",
+	},
+	"GRE": {
+	"color1": "#4550a9",
+	"color2": "#ffffff",
+	"color3": "#c55c6a",
+	},
+	"MOL": {
+	"color1": "#4550a9",
+	"color2": "#f43831",
+	"color3": "#459dd0",
+	},
+	"MON": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#b8c159",
+	},
+	"SER": {
+	"color1": "#f43831",
+	"color2": "#4550a9",
+	"color3": "#d26a2f",
+	},
+	"WAL": {
+	"color1": "#f8c743",
+	"color2": "#f43831",
+	"color3": "#bb4f56",
+	},
+	"HUN": {
+	"color1": "#98555c",
+	"color2": "#c55c6a",
+	"color3": "#77977a",
+	},
+	"TUR": {
+	"color1": "#7ecb78",
+	"color2": "#ffffff",
+	"color3": "#876855",
+	},
+	"ENG": {
+	"color1": "#c11a0e",
+	"color2": "#638999",
+	"color3": "#539569",
+	},
+	"IRE": {
+	"color1": "#709669",
+	"color2": "#889d17",
+	"color3": "#757fae",
+	},
+	"ION": {
+	"color1": "#4550a9",
+	"color2": "#f8c743",
+	"color3": "#836555",
+	},
+	"SCO": {
+	"color1": "#c7af0c",
+	"color2": "#ca7055",
+	"color3": "#68898c",
+	},
+	"BRZ": {
+	"color1": "#32552f",
+	"color2": "#a2911d",
+	"color3": "#b7b0c2",
+	},
+	"BOL": {
+	"color1": "#42853f",
+	"color2": "#97292b",
+	"color3": "#b7b0c2",
+	},
+	"CAN": {
+	"color1": "#5e7537",
+	"color2": "#ff577f",
+	"color3": "#638999",
+	},
+	"CHL": {
+	"color1": "#8f2a27",
+	"color2": "#424279",
+	"color3": "#504f58",
+	},
+	"PRG": {
+	"color1": "#923a23",
+	"color2": "#424279",
+	"color3": "#504f58",
+	},
+	"ARG": {
+	"color1": "#7091b5",
+	"color2": "#ffffff",
+	"color3": "#504f58",
+	},
+	"URU": {
+	"color1": "#444f8d",
+	"color2": "#a79d5e",
+	"color3": "#504f58",
+	},
+	"VNZ": {
+	"color1": "#a2911d",
+	"color2": "#424279",
+	"color3": "#c55c6a",
+	},
+	"ECU": {
+	"color1": "#61909d",
+	"color2": "#ffffff",
+	"color3": "#c55c6a",
+	},
+	"CLM": {
+	"color1": "#8f2a27",
+	"color2": "#a2911d",
+	"color3": "#c55c6a",
+	},
+	"MEX": {
+	"color1": "#db7c8b",
+	"color2": "#6566a3",
+	"color3": "#459dd0",
+	},
+	"MEW": {
+	"color1": "#9d55ff",
+	"color2": "#ffd855",
+	"color3": "#459dd0",
+	},
+	"PEU": {
+	"color1": "#7c8ca2",
+	"color2": "#903435",
+	"color3": "#b8c159",
+	},
+	"QUE": {
+	"color1": "#c28c56",
+	"color2": "#db7c8b",
+	"color3": "#1110cb",
+	},
+	"USA": {
+	"color1": "#459dd0",
+	"color2": "#7c8ca2",
+	"color3": "#89b77c",
+	},
+	"LIT": {
+	"color1": "#9a4574",
+	"color2": "#ffffff",
+	"color3": "#d26a2f",
+	},
+	"LIB": {
+	"color1": "#2454f5",
+	"color2": "#ffffff",
+	"color3": "#d26a2f",
+	},
+	"POL": {
+	"color1": "#c55c6a",
+	"color2": "#459dd0",
+	"color3": "#bb4f56",
+	},
+	"PRU": {
+	"color1": "#504f58",
+	"color2": "#9a4574",
+	"color3": "#ffffff",
+	},
+	"FRA": {
+	"color1": "#3f7dd6",
+	"color2": "#81b17d",
+	"color3": "#79a26d",
+	},
+	"ANH": {
+	"color1": "#86e07e",
+	"color2": "#f43831",
+	"color3": "#86a675",
+	},
+	"BAD": {
+	"color1": "#fff267",
+	"color2": "#8c7e45",
+	"color3": "#77977a",
+	},
+	"BAV": {
+	"color1": "#7ab6f2",
+	"color2": "#ffffff",
+	"color3": "#bb4f56",
+	},
+	"BOH": {
+	"color1": "#a18b28",
+	"color2": "#c28c56",
+	"color3": "#7ab361",
+	},
+	"BRA": {
+	"color1": "#677bcc",
+	"color2": "#f8c743",
+	"color3": "#d26a2f",
+	},
+	"BRE": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#89b77c",
+	},
+	"GER": {
+	"color1": "#ffffff",
+	"color2": "#504f58",
+	"color3": "#1110cb",
+	},
+	"AUS": {
+	"color1": "#aa2b15",
+	"color2": "#638999",
+	"color3": "#1110cb",
+	},
+	"HAM": {
+	"color1": "#f43831",
+	"color2": "#57bb80",
+	"color3": "#459dd0",
+	},
+	"HAN": {
+	"color1": "#f8c743",
+	"color2": "#ffffff",
+	"color3": "#9a4574",
+	},
+	"HES": {
+	"color1": "#ffffff",
+	"color2": "#f43831",
+	"color3": "#c3959b",
+	},
+	"HEK": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#c3959b",
+	},
+	"MEC": {
+	"color1": "#f8c743",
+	"color2": "#f43831",
+	"color3": "#709669",
+	},
+	"MEI": {
+	"color1": "#86e07e",
+	"color2": "#ffffff",
+	"color3": "#709669",
+	},
+	"OLD": {
+	"color1": "#f43831",
+	"color2": "#4550a9",
+	"color3": "#68898c",
+	},
+	"SAX": {
+	"color1": "#ffffff",
+	"color2": "#86e07e",
+	"color3": "#757fae",
+	},
+	"WEI": {
+	"color1": "#86e07e",
+	"color2": "#646464",
+	"color3": "#757fae",
+	},
+	"COB": {
+	"color1": "#86e07e",
+	"color2": "#f8c743",
+	"color3": "#757fae",
+	},
+	"SWI": {
+	"color1": "#ffffff",
+	"color2": "#f43831",
+	"color3": "#6baa4d",
+	},
+	"WUR": {
+	"color1": "#646464",
+	"color2": "#c55c6a",
+	"color3": "#77977a",
+	},
+	"CAT": {
+	"color1": "#d5844c",
+	"color2": "#b7b0c2",
+	"color3": "#89b77c",
+	},
+	"NAS": {
+	"color1": "#507dc4",
+	"color2": "#d78300",
+	"color3": "#1110cb",
+	},
+	"POR": {
+	"color1": "#677bcc",
+	"color2": "#ffffff",
+	"color3": "#459dd0",
+	},
+	"SPA": {
+	"color1": "#e7b50c",
+	"color2": "#f43831",
+	"color3": "#9a4574",
+	},
+	"ITA": {
+	"color1": "#ffffff",
+	"color2": "#98555c",
+	"color3": "#504f58",
+	},
+	"MOD": {
+	"color1": "#f1fc97",
+	"color2": "#81b17d",
+	"color3": "#c11a0e",
+	},
+	"PAP": {
+	"color1": "#f8c743",
+	"color2": "#ffffff",
+	"color3": "#30a433",
+	},
+	"PAR": {
+	"color1": "#ffffff",
+	"color2": "#f8c743",
+	"color3": "#709669",
+	},
+	"SAR": {
+	"color1": "#4550a9",
+	"color2": "#f43831",
+	"color3": "#68898c",
+	},
+	"SIC": {
+	"color1": "#86e07e",
+	"color2": "#ffffff",
+	"color3": "#836555",
+	},
+	"SIE": {
+	"color1": "#4b6fcd",
+	"color2": "#7c8ca2",
+	"color3": "#757fae",
+	},
+	"TUS": {
+	"color1": "#d9504b",
+	"color2": "#ffffff",
+	"color3": "#6baa4d",
+	},
+	"VEN": {
+	"color1": "#36a79c",
+	"color2": "#459dd0",
+	"color3": "#a6bdc7",
+	},
+	"FLA": {
+	"color1": "#2b8dac",
+	"color2": "#c3959b",
+	"color3": "#86a675",
+	},
+	"HAI": {
+	"color1": "#2b2a82",
+	"color2": "#638999",
+	"color3": "#bb4f56",
+	},
+	"HOL": {
+	"color1": "#4550a9",
+	"color2": "#f43831",
+	"color3": "#7ab361",
+	},
+	"LIP": {
+	"color1": "#f8c743",
+	"color2": "#f43831",
+	"color3": "#ffffff",
+	},
+	"LUX": {
+	"color1": "#7ab6f2",
+	"color2": "#ffffff",
+	"color3": "#840b0b",
+	},
+	"LUB": {
+	"color1": "#ffffff",
+	"color2": "#f43831",
+	"color3": "#c3959b",
+	},
+	"NET": {
+	"color1": "#4271bc",
+	"color2": "#ffffff",
+	"color3": "#ffffff",
+	},
+	"ALD": {
+	"color1": "#3764c3",
+	"color2": "#7b1015",
+	"color3": "#1110cb",
+	},
+	"ARM": {
+	"color1": "#80aa3f",
+	"color2": "#a64839",
+	"color3": "#1110cb",
+	},
+	"AST": {
+	"color1": "#1a1b9a",
+	"color2": "#a17e80",
+	"color3": "#459dd0",
+	},
+	"CRI": {
+	"color1": "#3b9e7d",
+	"color2": "#98555c",
+	"color3": "#c11a0e",
+	},
+	"GEO": {
+	"color1": "#2484f7",
+	"color2": "#7ecb78",
+	"color3": "#30a433",
+	},
+	"RUS": {
+	"color1": "#77b558",
+	"color2": "#903435",
+	"color3": "#6baa4d",
+	},
+	"UKR": {
+	"color1": "#7cb797",
+	"color2": "#c28c56",
+	"color3": "#86a675",
+	},
+	"YEM": {
+	"color1": "#d59b51",
+	"color2": "#504f58",
+	"color3": "#7ab361",
+	},
+	"OMA": {
+	"color1": "#c61610",
+	"color2": "#7b1015",
+	"color3": "#1110cb",
+	},
+	"HDJ": {
+	"color1": "#53a738",
+	"color2": "#7b1015",
+	"color3": "#459dd0",
+	},
+	"KRA": {
+	"color1": "#ffffff",
+	"color2": "#8092ca",
+	"color3": "#ffffff",
+	},
+	"TRE": {
+	"color1": "#28a49d",
+	"color2": "#a17e80",
+	"color3": "#504f58",
+	},
+	"BUR": {
+	"color1": "#ffffff",
+	"color2": "#c1e07e",
+	"color3": "#709669",
+	},
+	"MOR": {
+	"color1": "#b33639",
+	"color2": "#7b1015",
+	"color3": "#30a433",
+	},
+	"EGY": {
+	"color1": "#b33639",
+	"color2": "#7b1015",
+	"color3": "#30a433",
+	},
+	"TRN": {
+	"color1": "#31f44c",
+	"color2": "#5e7537",
+	"color3": "#709669",
+	},
+	"TRI": {
+	"color1": "#579257",
+	"color2": "#7b1015",
+	"color3": "#709669",
+	},
+	"TUN": {
+	"color1": "#b33639",
+	"color2": "#4550a9",
+	"color3": "#79a26d",
+	},
+	"SOK": {
+	"color1": "#31f44c",
+	"color2": "#5e7537",
+	"color3": "#709669",
+	},
+	"ORA": {
+	"color1": "#ff9a52",
+	"color2": "#5e7537",
+	"color3": "#709669",
+	},
+	"MAD": {
+	"color1": "#2454f5",
+	"color2": "#ec9f59",
+	"color3": "#79a26d",
+	},
+	"KHI": {
+	"color1": "#799f6d",
+	"color2": "#6566a3",
+	"color3": "#c7af0c",
+	},
+	"KOK": {
+	"color1": "#628c54",
+	"color2": "#db7c8b",
+	"color3": "#757fae",
+	},
+	"PER": {
+	"color1": "#c7b180",
+	"color2": "#c28c56",
+	"color3": "#539569",
+	},
+	"CHE": {
+	"color1": "#699128",
+	"color2": "#c55c6a",
+	"color3": "#c7af0c",
+	},
+	"SIA": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#a6bdc7",
+	},
+	"ETH": {
+	"color1": "#fff652",
+	"color2": "#276c8c",
+	"color3": "#79a26d",
+	},
+	"ZAN": {
+	"color1": "#ffffff",
+	"color2": "#98555c",
+	"color3": "#bb4f56",
+	},
+	"ATJ": {
+	"color1": "#ffffff",
+	"color2": "#f43831",
+	"color3": "#504f58",
+	},
+	"BAL": {
+	"color1": "#4550a9",
+	"color2": "#ffffff",
+	"color3": "#c11a0e",
+	},
+	"BRU": {
+	"color1": "#f8c743",
+	"color2": "#ffffff",
+	"color3": "#709669",
+	},
+	"CAM": {
+	"color1": "#f43831",
+	"color2": "#4550a9",
+	"color3": "#79a26d",
+	},
+	"DAI": {
+	"color1": "#f8c743",
+	"color2": "#7ab6f2",
+	"color3": "#836555",
+	},
+	"JAP": {
+	"color1": "#d10000",
+	"color2": "#252525",
+	"color3": "#dbc032",
+	},
+	"JOH": {
+	"color1": "#4550a9",
+	"color2": "#f43831",
+	"color3": "#6baa4d",
+	},
+	"KOR": {
+	"color1": "#f43831",
+	"color2": "#ffc146",
+	"color3": "#dbc032",
+	},
+	"LUA": {
+	"color1": "#f43831",
+	"color2": "#f8c743",
+	"color3": "#30a433",
+	},
+	"PNJ": {
+	"color1": "#e5a545",
+	"color2": "#646464",
+	"color3": "#a6bdc7",
+	},
+	"TIB": {
+	"color1": "#ffffff",
+	"color2": "#f8c743",
+	"color3": "#7ab361",
+	},
+	"BAS": {
+	"color1": "#677bcc",
+	"color2": "#ffffff",
+	"color3": "#c3959b",
+	},
+	"BER": {
+	"color1": "#d75d35",
+	"color2": "#ffffff",
+	"color3": "#504f58",
+	},
+	"BHO": {
+	"color1": "#4e965b",
+	"color2": "#ffffff",
+	"color3": "#638999",
+	},
+	"BIK": {
+	"color1": "#e5a545",
+	"color2": "#ca0000",
+	"color3": "#638999",
+	},
+	"BHU": {
+	"color1": "#5db44c",
+	"color2": "#6b5ea9",
+	"color3": "#b7b0c2",
+	},
+	"BUN": {
+	"color1": "#ffd855",
+	"color2": "#ffffff",
+	"color3": "#30a433",
+	},
+	"GWA": {
+	"color1": "#ffd855",
+	"color2": "#ca0000",
+	"color3": "#79a26d",
+	},
+	"HYD": {
+	"color1": "#fb9f56",
+	"color2": "#4e965b",
+	"color3": "#836555",
+	},
+	"KAS": {
+	"color1": "#3f961e",
+	"color2": "#6566a3",
+	"color3": "#539569",
+	},
+	"MUG": {
+	"color1": "#9a8599",
+	"color2": "#c55c6a",
+	"color3": "#89b77c",
+	},
+	"MYS": {
+	"color1": "#f43831",
+	"color2": "#6e463c",
+	"color3": "#459dd0",
+	},
+	"NEP": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#459dd0",
+	},
+	"NAG": {
+	"color1": "#d75d35",
+	"color2": "#646464",
+	"color3": "#459dd0",
+	},
+	"NEJ": {
+	"color1": "#579257",
+	"color2": "#000000",
+	"color3": "#459dd0",
+	},
+	"ORI": {
+	"color1": "#ffffff",
+	"color2": "#d26a2f",
+	"color3": "#9a4574",
+	},
+	"SIN": {
+	"color1": "#487750",
+	"color2": "#ffffff",
+	"color3": "#638999",
+	},
+	"IND": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#638999",
+	},
+	"JAI": {
+	"color1": "#ffd855",
+	"color2": "#4550a9",
+	"color3": "#638999",
+	},
+	"JAS": {
+	"color1": "#f43831",
+	"color2": "#9d55ff",
+	"color3": "#638999",
+	},
+	"JOD": {
+	"color1": "#f43831",
+	"color2": "#57bb80",
+	"color3": "#638999",
+	},
+	"KAL": {
+	"color1": "#5aa46b",
+	"color2": "#f43831",
+	"color3": "#638999",
+	},
+	"KUT": {
+	"color1": "#f43831",
+	"color2": "#ffffff",
+	"color3": "#459dd0",
+	},
+	"MAK": {
+	"color1": "#5aa46b",
+	"color2": "#4550a9",
+	"color3": "#638999",
+	},
+	"TRA": {
+	"color1": "#d73b35",
+	"color2": "#7ab6f2",
+	"color3": "#ffffff",
+	},
+]
