@@ -1,4 +1,4 @@
-bookmark =
+bookmark = 
 {
     name = "GC_NAME"
     desc = "GC_DESC"
@@ -7,7 +7,7 @@ bookmark =
     cameraY = 1550
 }
 
-#bookmark =
+#bookmark = 
 #{
 #    name = "ACW_NAME"
 #    desc = "ACW_DESC"

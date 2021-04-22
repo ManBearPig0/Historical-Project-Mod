@@ -5328,7 +5328,7 @@ native_rebels = {
     occupation_mult = 1.0            # The amount of strength this rebel gains from taking provinces
 
     # triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
-    will_rise =
+    will_rise = 
     {
         factor = 0.5
         modifier = {
@@ -6096,7 +6096,7 @@ partisan_rebels = {
         }
         modifier = {
             factor = 4
-            NOT =  {
+            NOT = {
                 controlled_by = THIS
                 controlled_by = REB
             }

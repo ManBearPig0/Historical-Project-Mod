@@ -165,6 +165,6 @@ terrorist_cells = {
 #    trigger = {
 #        owner = { vote_franschise = none_voting }
 #        is_colonial = no
-#        has_pop_type  = bureaucrats
+#        has_pop_type = bureaucrats
 #    }
 #}

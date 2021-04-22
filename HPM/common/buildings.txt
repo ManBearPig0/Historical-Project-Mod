@@ -5,8 +5,8 @@
 # so leave bases on top
 
 #
-# cost = x #==> extra construction cost (added to goods cost estimations)
-# time = x #==> number of days to build.
+# cost = x # =  = > extra construction cost (added to goods cost estimations)
+# time = x # =  = > number of days to build.
 #
 # Audax Validator EnableCommentMetadata
 
@@ -18,8 +18,8 @@ aeroplane_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         electric_gear = 600
         steel = 600
@@ -39,8 +39,8 @@ barrel_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         electric_gear = 500
         steel = 500
@@ -61,8 +61,8 @@ automobile_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         electric_gear = 200
         steel = 400
@@ -83,8 +83,8 @@ radio_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         electric_gear = 200
         steel = 200
@@ -105,8 +105,8 @@ telephone_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         electric_gear = 200
         steel = 200
@@ -129,8 +129,8 @@ electric_gear_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 300
         steel = 200
         cement = 200
@@ -150,8 +150,8 @@ machine_parts_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -171,8 +171,8 @@ synthetic_oil_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 300
         steel = 200
         cement = 200
@@ -192,8 +192,8 @@ fuel_refinery = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -217,8 +217,8 @@ steamer_shipyard = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 400
         steel = 200
         cement = 200
@@ -239,8 +239,8 @@ clipper_shipyard = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -261,8 +261,8 @@ luxury_clothes_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -281,8 +281,8 @@ luxury_furniture_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -303,8 +303,8 @@ steel_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         iron = 200
         cement = 200
@@ -323,8 +323,8 @@ artillery_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         steel = 200
         cement = 200
@@ -342,8 +342,8 @@ small_arms_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 140
         steel = 200
         cement = 200
@@ -363,8 +363,8 @@ furniture_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 140
         steel = 200
         cement = 200
@@ -382,8 +382,8 @@ paper_mill = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 140
         steel = 200
         cement = 200
@@ -401,8 +401,8 @@ regular_clothes_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 140
         steel = 200
         cement = 200
@@ -420,8 +420,8 @@ explosives_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 140
         steel = 200
         cement = 200
@@ -442,8 +442,8 @@ ammunition_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 100
         steel = 200
         cement = 200
@@ -462,8 +462,8 @@ canned_food_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 80
         steel = 200
         cement = 200
@@ -482,8 +482,8 @@ dye_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 80
         steel = 200 #was iron
         cement = 200
@@ -503,8 +503,8 @@ liquor_distillery = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 80
         steel = 200
         cement = 200
@@ -523,8 +523,8 @@ winery = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 80
         steel = 200
         cement = 200
@@ -544,8 +544,8 @@ lumber_mill = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 20
         iron = 200
         cement = 200
@@ -563,8 +563,8 @@ fabric_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 20
         iron = 200
         cement = 200
@@ -582,8 +582,8 @@ cement_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 20
         iron = 200
         lumber = 200
@@ -601,8 +601,8 @@ glass_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 40
         iron = 200
         cement = 200
@@ -621,8 +621,8 @@ fertilizer_factory = {
     on_completion = factory
     completion_size = 0.2
     max_level = 99
-    goods_cost =
-    {
+    goods_cost = {
+
         machine_parts = 200
         iron = 200
         cement = 200
@@ -639,8 +639,8 @@ fertilizer_factory = {
 
 fort = {
     type = fort
-    goods_cost =
-    {
+    goods_cost = {
+
         steel = 100
         lumber = 100
         cement = 100
@@ -660,8 +660,8 @@ fort = {
 naval_base = {
     type = naval_base
     cost = 15000
-    goods_cost =
-    {
+    goods_cost = {
+
         lumber = 100
         cement = 100
         steel = 100
@@ -684,8 +684,8 @@ naval_base = {
 
 railroad = {
     type = infrastructure
-    goods_cost =
-    {
+    goods_cost = {
+
         lumber = 100
         cement = 100
         steel = 100

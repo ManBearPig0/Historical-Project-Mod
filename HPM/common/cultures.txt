@@ -2196,7 +2196,7 @@ west_african = {
         last_names = { Bello Fodio Amadu Ibrahim Dadi zaki "Sa'id Tall"
         }
     }
-    hausa  = {
+    hausa = {
         color = { 218 68 212 }
         first_names = { Muhammad Kumbari Sharif Yaji Baba Daud Abdullah Kanajeji Bugaya Usman Tsamiya
         }

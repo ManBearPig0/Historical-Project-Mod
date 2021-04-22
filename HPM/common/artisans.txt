@@ -121,7 +121,7 @@ artisan_electric_gear = {
 artisan_machine_parts = {
     input_goods = {
         steel = 9        #42.3
-        coal = 5        #11.5  total input =  53.8
+        coal = 5        #11.5  total input = 53.8
     }
     output_goods = machine_parts
     value = 2            #73 - profit = 19.2
@@ -160,7 +160,7 @@ artisan_steamer = {
         lumber = 10    #10
         steel = 22        #103.4
         coal = 30        #69
-        machine_parts = 0.25 #9.125 total input= 191.525
+        machine_parts = 0.25 #9.125 total input = 191.525
     }
     output_goods = steamer_convoy
     is_coastal = yes

@@ -9,7 +9,7 @@ aeroplane_factory = {
         lumber = 3.3                 #3.3    total input+maint = 92.64
     }
     output_goods = aeroplanes
-    value = 1.1                        #121 - profit =  28.36
+    value = 1.1                        #121 - profit = 28.36
     bonus = {
         trigger = { has_building = machine_parts_factory }
         value = 0.25

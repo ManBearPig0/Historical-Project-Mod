@@ -173,7 +173,7 @@ colony_to_be_annexed = {
 regency_government = {
     global_pop_consciousness_modifier = 0.1
     global_pop_militancy_modifier = 0.05
-    political_reform_desire  = 0.25
+    political_reform_desire = 0.25
     cb_generation_speed_modifier = -0.25
     influence_modifier = -0.25
     org_regain = -0.25
@@ -561,7 +561,7 @@ drained_marsh = {
 backed_down_on_promise = {
     ruling_party_support = -1
     political_reform_desire = 0.25
-    global_pop_consciousness_modifier  = 0.2
+    global_pop_consciousness_modifier = 0.2
     icon = 6
 }
 
@@ -719,15 +719,15 @@ rivera_reforms = {
 }
 
 colorado_sympathies = {
-    pop_militancy_modifier  = 0.3
-    pop_consciousness_modifier  = 0.3
+    pop_militancy_modifier = 0.3
+    pop_consciousness_modifier = 0.3
     local_ruling_party_support = -0.7
     icon = 18
 }
 
 blanco_sympathies = {
-    pop_militancy_modifier  = 0.2
-    pop_consciousness_modifier  = 0.1
+    pop_militancy_modifier = 0.2
+    pop_consciousness_modifier = 0.1
     local_ruling_party_support = -0.7
     icon = 18
 }
@@ -2006,7 +2006,7 @@ irish_unionists = {
     icon = 18
 }
 
-#irish_integration  = {
+#irish_integration = {
 #    assimilation_rate = 0.2
 #    icon = 19
 #}
@@ -2304,7 +2304,7 @@ sons_of_liberty = {
     icon = 18
 }
 
-apache_raiders    = {
+apache_raiders = {
     population_growth = -0.002
     pop_militancy_modifier = 0.2
     icon = 18

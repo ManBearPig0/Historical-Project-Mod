@@ -227,7 +227,7 @@ promotion_focus = {
     }
 
     promote_farmers = {
-        farmers =     0.20 #20% more likely to become this type
+        farmers = 0.20 #20% more likely to become this type
         icon = 18
         outliner_show_as_percent = yes
         limit = {
